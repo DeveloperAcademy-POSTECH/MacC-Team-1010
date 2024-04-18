@@ -2,16 +2,8 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>TOPIC_API_URL</key>
-	<string>$(TOPIC_API_URL)</string>
 	<key>ACCOUNT_API_URL</key>
 	<string>$(ACCOUNT_API_URL)</string>
-	<key>SMS_API_URL</key>
-	<string>$(SMS_API_URL)</string>
-	<key>NSCameraUsageDescription</key>
-	<string>라벨 스캔을 하기 위해서는 카메라 권한 설정이 필요합니다.</string>
-	<key>Localization native development region</key>
-	<string>Korea</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>$(DEVELOPMENT_LANGUAGE)</string>
 	<key>CFBundleDisplayName</key>
@@ -34,19 +26,27 @@
 	<string>$(HOME_API_URL)</string>
 	<key>IMAGE_API_URL</key>
 	<string>$(IMAGE_API_URL)</string>
-	<key>MIXPANEL_API_KEY</key>
-	<string>$(MIXPANEL_API_KEY)</string>
 	<key>LSRequiresIPhoneOS</key>
 	<true/>
+	<key>Localization native development region</key>
+	<string>Korea</string>
 	<key>MAKGEOLLI_API_URL</key>
 	<string>$(MAKGEOLLI_API_URL)</string>
+	<key>MIXPANEL_API_KEY</key>
+	<string>$(MIXPANEL_API_KEY)</string>
 	<key>NSAppTransportSecurity</key>
 	<dict>
 		<key>NSAllowsArbitraryLoads</key>
 		<true/>
 	</dict>
+	<key>NSCameraUsageDescription</key>
+	<string>라벨 스캔을 하기 위해서는 카메라 권한 설정이 필요합니다.</string>
 	<key>SEARCH_API_URL</key>
 	<string>$(SEARCH_API_URL)</string>
+	<key>SMS_API_URL</key>
+	<string>$(SMS_API_URL)</string>
+	<key>TOPIC_API_URL</key>
+	<string>$(TOPIC_API_URL)</string>
 	<key>UIApplicationSceneManifest</key>
 	<dict>
 		<key>UIApplicationSupportsMultipleScenes</key>
