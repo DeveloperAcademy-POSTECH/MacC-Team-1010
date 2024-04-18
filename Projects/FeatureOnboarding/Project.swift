@@ -1,17 +1,34 @@
-import ProjectDescription
-import ProjectDescriptionHelpers
+// swift-tools-version: 5.9
 
-let project = Project.makeModule(
-	name: "FeatureOnboarding",
-	product: .staticFramework,
-//	product: .app,
-	dependencies: [
-		.Project.Core,
-		.Project.DesignSystem,
-		.Project.FeatureHome,
-		.Project.FeatureSearch,
-		.Project.FeatureEncyclopedia,
-		.Project.FeatureProfile
-	],
-	sources: ["Scene/**"]
+import ProjectDescription
+
+let project = Project(
+		name: "FeatureOnboarding",
+		targets: [
+				.target(
+						name: "FeatureOnboarding",
+						destinations: [.iPhone],
+						product: .staticFramework,
+						bundleId: "com.teamten.julookfeatureonboarding",
+						deploymentTargets: .iOS("16.0"),
+						infoPlist: .default,
+						sources: ["Scene/**"],
+						dependencies: [
+							.project(target: "Core", path: "../Core"),
+							.project(target: "DesignSystem", path: "../DesignSystem"),
+							.project(target: "FeatureHome", path: "../FeatureHome"),
+							.project(target: "FeatureSearch", path: "../FeatureSearch"),
+							.project(target: "FeatureEncyclopedia", path: "../FeatureEncyclopedia"),
+							.project(target: "FeatureProfile", path: "../FeatureProfile")
+						]
+				),
+				.target(
+						name: "FeatureOnboardingTests",
+						destinations: [.iPhone],
+						product: .unitTests,
+						bundleId: "com.teamten.FeatureOnboardingTests",
+						infoPlist: .default,
+						dependencies: [.target(name: "FeatureOnboarding")]
+				),
+		]
 )
