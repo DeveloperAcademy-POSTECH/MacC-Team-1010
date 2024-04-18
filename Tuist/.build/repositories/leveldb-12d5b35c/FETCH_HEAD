@@ -1,0 +1,45 @@
+adf4a95904d875a6d371cd62f55c9627785ce186	not-for-merge	branch 'android' of https://github.com/firebase/leveldb
+24bcf7f7ceeb4534e8e3fd6a7e543e41b568e251	not-for-merge	branch 'apple-toolchain-fixes' of https://github.com/firebase/leveldb
+2cc336440630ebf4e397cb03b8e530a12e58fe34	not-for-merge	branch 'firebase-release' of https://github.com/firebase/leveldb
+20280f0cc6fd5d945accdc952d02008ac389bf00	not-for-merge	branch 'master' of https://github.com/firebase/leveldb
+40c17c0b84ac0b791fb434096fd5c05f3819ad55	not-for-merge	branch 'reuse-manifest' of https://github.com/firebase/leveldb
+e028bdfa81378c30f682baa022a27b688903e62d	not-for-merge	branch 'windows' of https://github.com/firebase/leveldb
+7a00961fe18b853d7a2db176b1473a3b19c9b6b9	not-for-merge	'refs/pull/1/head' of https://github.com/firebase/leveldb
+4ac32a32f3a257aa033b1fb6c5f0cb02744e903f	not-for-merge	'refs/pull/10/head' of https://github.com/firebase/leveldb
+8172e685233161467988c50dad1fad012e2f3557	not-for-merge	'refs/pull/11/head' of https://github.com/firebase/leveldb
+62eed19cbe71b245b92ae85dab04c72c43975000	not-for-merge	'refs/pull/12/head' of https://github.com/firebase/leveldb
+d21f095ddcdc93a2162d4bd512b87f97cf635658	not-for-merge	'refs/pull/13/head' of https://github.com/firebase/leveldb
+fe64ace8297a693fa9e5d75f6161fb11c3e2c059	not-for-merge	'refs/pull/14/head' of https://github.com/firebase/leveldb
+e4e8ab44a2781a3656b4b5852e71c07fd18fecfa	not-for-merge	'refs/pull/2/head' of https://github.com/firebase/leveldb
+4c9c8fc80ea7a9245e60b187fd031435ffef7a19	not-for-merge	'refs/pull/3/head' of https://github.com/firebase/leveldb
+193cd89a0f18e710ab26b9720a653cb4855bbe10	not-for-merge	'refs/pull/4/head' of https://github.com/firebase/leveldb
+ce029bb02bc8d1e122238571350df9cc4a69716e	not-for-merge	'refs/pull/5/head' of https://github.com/firebase/leveldb
+e714b6dcab6cd23d55691fc30b6d73b4451191c9	not-for-merge	'refs/pull/6/head' of https://github.com/firebase/leveldb
+2861c151b4ba73e5d06de61f8feac9d7e5fe7c30	not-for-merge	'refs/pull/7/head' of https://github.com/firebase/leveldb
+cc72d7cd46c034c5fbce60d7648a612355691c5f	not-for-merge	'refs/pull/8/head' of https://github.com/firebase/leveldb
+1ae363a7226fd0750c4f24f695bf7e8cc7f9366b	not-for-merge	'refs/pull/9/head' of https://github.com/firebase/leveldb
+7a00961fe18b853d7a2db176b1473a3b19c9b6b9	not-for-merge	tag '1.18.3' of https://github.com/firebase/leveldb
+fa1f25f296a766e5a789c4dacd4798dea798b2c2	not-for-merge	tag '1.22.1' of https://github.com/firebase/leveldb
+0706abcc6b0bd9cedfbb015ba840e4a780b5159b	not-for-merge	tag '1.22.2' of https://github.com/firebase/leveldb
+9d108e9112aa1d65ce508facf804674546116d9c	not-for-merge	tag '1.22.3' of https://github.com/firebase/leveldb
+43aaef65e0c665daadf848761d560e446d350d3d	not-for-merge	tag '1.22.4' of https://github.com/firebase/leveldb
+a0bc79961d7be727d258d33d5a6b2f1023270ba1	not-for-merge	tag '1.22.5' of https://github.com/firebase/leveldb
+e3df3ad9259cd4239340c0ec063f6e8ab0729399	not-for-merge	tag 'CocoaPods-1.22.3' of https://github.com/firebase/leveldb
+43aaef65e0c665daadf848761d560e446d350d3d	not-for-merge	tag 'CocoaPods-1.22.4' of https://github.com/firebase/leveldb
+a0bc79961d7be727d258d33d5a6b2f1023270ba1	not-for-merge	tag 'CocoaPods-1.22.5' of https://github.com/firebase/leveldb
+28dad918f2ffb80fd70110ed5cd47744339649f2	not-for-merge	tag 'v1.10' of https://github.com/firebase/leveldb
+7b094f12e46a45b911f20f7bd2ca96f83e272d91	not-for-merge	tag 'v1.11' of https://github.com/firebase/leveldb
+5bd76dc10d840df23255ba0e635083a2a94e0461	not-for-merge	tag 'v1.12' of https://github.com/firebase/leveldb
+748539c183453bdeaff1eb0da8ccf5adacb796e7	not-for-merge	tag 'v1.13' of https://github.com/firebase/leveldb
+0b9a89f40efdd143fa1426e7d5cd997f67ba6361	not-for-merge	tag 'v1.14' of https://github.com/firebase/leveldb
+0cfb990d58ffba9b56df6e9829ddb9d220824066	not-for-merge	tag 'v1.15' of https://github.com/firebase/leveldb
+269fc6ca9416129248db5ca57050cd5d39d177c8	not-for-merge	tag 'v1.16' of https://github.com/firebase/leveldb
+e353fbc7ea81f12a5694991b708f8f45343594b1	not-for-merge	tag 'v1.17' of https://github.com/firebase/leveldb
+803d69203a62faf50f1b77897310a3a1fcae712b	not-for-merge	tag 'v1.18' of https://github.com/firebase/leveldb
+bc1ee4d25e09b04e074db330a41f54ef4af0e31b	not-for-merge	tag 'v1.3' of https://github.com/firebase/leveldb
+85584d497e7b354853b72f450683d59fcf6b9c5c	not-for-merge	tag 'v1.4' of https://github.com/firebase/leveldb
+dd0d562b4d4fbd07db6a44f9e221f8d368fee8e4	not-for-merge	tag 'v1.5' of https://github.com/firebase/leveldb
+946e5b5a4ce7980917b22a408f090a4e86c3fa44	not-for-merge	tag 'v1.6' of https://github.com/firebase/leveldb
+40768657bc8ec3ded60712eeeab7c25b1b07deca	not-for-merge	tag 'v1.7' of https://github.com/firebase/leveldb
+ea2e9195fc241c8fe9f329679d7a424345c68c7b	not-for-merge	tag 'v1.8' of https://github.com/firebase/leveldb
+d84c825a70a843bb107de8b732cb79e584cefd17	not-for-merge	tag 'v1.9' of https://github.com/firebase/leveldb

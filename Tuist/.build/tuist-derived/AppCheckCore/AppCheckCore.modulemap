@@ -1,0 +1,6 @@
+framework module AppCheckCore {
+  umbrella header "/Users/kimsunghun/Desktop/ungchun/아카데미/매크로/MACC/Tuist/.build/checkouts/app-check/AppCheckCore/Sources/Public/AppCheckCore/AppCheckCore.h"
+
+  export *
+  module * { export * }
+}

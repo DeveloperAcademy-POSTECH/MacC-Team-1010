@@ -1,0 +1,13 @@
+# pack-refs with: peeled fully-peeled sorted 
+0f596a1017bbc0a085f217ed8251fdd236f7b886 refs/heads/main
+f7654c5150d30f08ea2623684c73ec4b2a1ee03a refs/pull/1/head
+db7a700fbe6c5308fa78343493fc90ed4888390d refs/pull/2/head
+fcbb3a634e4d42c864e3d138b233bde7eb7425d8 refs/pull/3/head
+2723649519ac140fa95cff27f7ee7fe7bebb25fc refs/pull/4/head
+90ccea9b35a69b6a483367ce584d88d990f7c993 refs/pull/5/head
+1198b0786bca0fc07c7fb386800e34f69388968c refs/pull/6/head
+bdb1d665b83391b83dca1a6978cdcab25c4bda22 refs/pull/7/head
+66cf8a79ec9cd3d37097afce088621c55542b464 refs/tags/100.0.0
+^2d12673670417654f08f5f90fdd62926dc3a2648
+e3b2b9b8ce97383a762ef177e27c9a29b5c246c5 refs/tags/CocoaPods-100.0.0
+^2d12673670417654f08f5f90fdd62926dc3a2648

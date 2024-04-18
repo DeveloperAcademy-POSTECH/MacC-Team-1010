@@ -1,0 +1,4 @@
+module GTMSessionFetcherFull {
+    umbrella "/Users/kimsunghun/Desktop/ungchun/아카데미/매크로/MACC/Tuist/.build/checkouts/gtm-session-fetcher/Sources/Full/Public"
+    export *
+}

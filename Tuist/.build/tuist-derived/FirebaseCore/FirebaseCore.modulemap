@@ -1,0 +1,6 @@
+framework module FirebaseCore {
+  umbrella header "/Users/kimsunghun/Desktop/ungchun/아카데미/매크로/MACC/Tuist/.build/checkouts/firebase-ios-sdk/FirebaseCore/Sources/Public/FirebaseCore/FirebaseCore.h"
+
+  export *
+  module * { export * }
+}

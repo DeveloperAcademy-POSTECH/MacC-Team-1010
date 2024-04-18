@@ -1,0 +1,7 @@
+framework module GoogleAppMeasurementOnDeviceConversion {
+umbrella header "GoogleAppMeasurementOnDeviceConversion-umbrella.h"
+export *
+module * { export * }
+  link framework "Foundation"
+  link "c++"
+}

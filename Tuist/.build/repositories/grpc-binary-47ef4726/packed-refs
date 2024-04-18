@@ -1,0 +1,26 @@
+# pack-refs with: peeled fully-peeled sorted 
+9864b606fb1bc3d45770b32056521423d745876b refs/heads/ah/1.49.1-checksums
+67043f6389d0e28b38fa02d1c6952afeb04d807f refs/heads/main
+b00003014fbac711eabf34c49e729dca217e4541 refs/heads/nc/bump-stv
+8f2fb96a5ee270dcaab6145c268a4d109f7fbb18 refs/heads/nc/pm-update
+9b319684014bc66398c1f871edab836be214ec03 refs/heads/nc/release-1.50.1
+e0be0ee0fa5c413bb7cbcddd3075e6ec25ff7815 refs/heads/nc/update-gitignore
+2bbe77a744d82b189be971a5be81c67186a32918 refs/heads/nc/version
+b00003014fbac711eabf34c49e729dca217e4541 refs/pull/1/head
+8f2fb96a5ee270dcaab6145c268a4d109f7fbb18 refs/pull/10/head
+cd8265be80c421dd4f45864c3b7dc22580f11258 refs/pull/11/head
+c52f60b298d46b200b6298c21b2c73b7f0c8dfdd refs/pull/12/head
+2bbe77a744d82b189be971a5be81c67186a32918 refs/pull/2/head
+9b319684014bc66398c1f871edab836be214ec03 refs/pull/3/head
+e0be0ee0fa5c413bb7cbcddd3075e6ec25ff7815 refs/pull/4/head
+8ad5295beb4679065bb26b6788721df4257a52bb refs/pull/5/head
+32b8990204c1a68eb44afc225a812beec098793b refs/pull/6/head
+9864b606fb1bc3d45770b32056521423d745876b refs/pull/7/head
+90f75d4a15e5a26613508c28fa5bfc670ea8cf6d refs/pull/9/head
+df37f6af8a273bc687e3166843ed86007de57d78 refs/tags/1.44.0
+b0c4b7dbdc751621f25096015084ba4bf5816e49 refs/tags/1.49.1
+^a673bc2937fbe886dd1f99c401b01b6d977a9c98
+ea4cb5cc0c39c732b85386263116d2e2fdbbdc61 refs/tags/1.49.2
+2b7656d8ee892cd39db460b1a0d849de618405e6 refs/tags/1.50.1
+f1b366129d1125be7db83247e003fc333104b569 refs/tags/1.50.2
+67043f6389d0e28b38fa02d1c6952afeb04d807f refs/tags/1.62.1

@@ -1,0 +1,4 @@
+module third_party_IsAppEncrypted {
+    umbrella "/Users/kimsunghun/Desktop/ungchun/아카데미/매크로/MACC/Tuist/.build/checkouts/GoogleUtilities/third_party/IsAppEncrypted/Public"
+    export *
+}

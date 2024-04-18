@@ -1,0 +1,570 @@
+8550019e385bc2ae08ae2ddd24572f003c700d9d	not-for-merge	branch '3.0.0.beta' of https://github.com/mixpanel/mixpanel-swift
+c9823e10c5c3d3a34efed6fb61a0b59387f3702f	not-for-merge	branch '3.0.0.rc' of https://github.com/mixpanel/mixpanel-swift
+c895b47f8ff5136030d6c598953d23a3f2d52056	not-for-merge	branch 'SPM-mac-watchos' of https://github.com/mixpanel/mixpanel-swift
+0042596de744723886698d2966b886dddb8e520e	not-for-merge	branch 'ab-test-tweaks-no-update' of https://github.com/mixpanel/mixpanel-swift
+9827e146d328042e05b272bd30fcc9b3c54ea74f	not-for-merge	branch 'add-change-log' of https://github.com/mixpanel/mixpanel-swift
+ffdb39dedbcc72457eafa412f783d02942fe072b	not-for-merge	branch 'add-identify-call' of https://github.com/mixpanel/mixpanel-swift
+db02aef1e5d84df8af1462ba770127604eedc853	not-for-merge	branch 'add-missing-distinctId' of https://github.com/mixpanel/mixpanel-swift
+b85503a2a8cf9910511c378d890062ab79572c5c	not-for-merge	branch 'add-super-properties-init' of https://github.com/mixpanel/mixpanel-swift
+ae6253fa579998db9b577df9420a1d382c3f0838	not-for-merge	branch 'austinpray-mixpanel-patch-1' of https://github.com/mixpanel/mixpanel-swift
+11ccf0a083c7b806025bb1ecb40486fd8a037e8e	not-for-merge	branch 'austinpray-mixpanel-patch-2' of https://github.com/mixpanel/mixpanel-swift
+ab292d462502834d8794b40e84c39b23c5976550	not-for-merge	branch 'buttonab' of https://github.com/mixpanel/mixpanel-swift
+be24293d4f35379029434b76a436f52a59390774	not-for-merge	branch 'dismiss-button-inAppNotification' of https://github.com/mixpanel/mixpanel-swift
+b06b0a8477c6dbd0f01be91dd6af3a4344dc9a30	not-for-merge	branch 'fix-CI-freeze' of https://github.com/mixpanel/mixpanel-swift
+d19a3f2ffacefc641b830ab4bb46fde30fdcc443	not-for-merge	branch 'fix-airship-integration-crash' of https://github.com/mixpanel/mixpanel-swift
+32e312d2dc3d7b8bc979af9b48db9805ac9cc1bb	not-for-merge	branch 'fix-app-version-prop' of https://github.com/mixpanel/mixpanel-swift
+6335dae775db22356d765ee7b2125edd66f117b3	not-for-merge	branch 'fix-automatic-events-archive-issue' of https://github.com/mixpanel/mixpanel-swift
+b490e1b4f47bb910769b591ce2f1565b9f1f25da	not-for-merge	branch 'fix-automatic-events-decide' of https://github.com/mixpanel/mixpanel-swift
+885b3260cc15ccc6198a9e5c886b3ea81014b7e0	not-for-merge	branch 'fix-carthage' of https://github.com/mixpanel/mixpanel-swift
+e1429ea83c33b8b95e31515c11e14f1af97ab384	not-for-merge	branch 'fix-check-decide' of https://github.com/mixpanel/mixpanel-swift
+30034f5b490f9cd1b73fb303e260b834aa7476f2	not-for-merge	branch 'fix-crash-NSKeyedArchiver' of https://github.com/mixpanel/mixpanel-swift
+461bf55fd0be04575ee76c976fdddde18ea18228	not-for-merge	branch 'fix-crash-race-condition-group-variant' of https://github.com/mixpanel/mixpanel-swift
+759e9dac21a40d74ef96ecc6ebc3444c8010f387	not-for-merge	branch 'fix-crashes-super-properties' of https://github.com/mixpanel/mixpanel-swift
+cb6c5d648e42987e1285897a3f856ff7e24270a9	not-for-merge	branch 'fix-data-race' of https://github.com/mixpanel/mixpanel-swift
+b93c97877270ac8f58a77005448cd14858d186f6	not-for-merge	branch 'fix-deadlock-readwritelock' of https://github.com/mixpanel/mixpanel-swift
+08704c7f9a3d58fe4a1f3390ed894b4c19af44a1	not-for-merge	branch 'fix-demo-app-notification' of https://github.com/mixpanel/mixpanel-swift
+d193a0f055ec01e450aae068cb6ab160c5bb4896	not-for-merge	branch 'fix-extension-api-compile-issue' of https://github.com/mixpanel/mixpanel-swift
+4f25ef6685350052ba5f5f1021977d2294b81369	not-for-merge	branch 'fix-first-app-open' of https://github.com/mixpanel/mixpanel-swift
+df41dbe34995196ec396015402d2de61b88c0a05	not-for-merge	branch 'fix-flush-completionhandler' of https://github.com/mixpanel/mixpanel-swift
+ede8e62d43620e6dbcb28c0c5e87a9732476a33a	not-for-merge	branch 'fix-in-app-ios13' of https://github.com/mixpanel/mixpanel-swift
+f000473a286d8c8780a5123669b5398d0c402052	not-for-merge	branch 'fix-macCatalyst-os-info' of https://github.com/mixpanel/mixpanel-swift
+761566740a03fceaa0acade47e70c1497cde7c11	not-for-merge	branch 'fix-offline-no-archive' of https://github.com/mixpanel/mixpanel-swift
+46af545e1b73fa6abd4159777407e65a30d2906a	not-for-merge	branch 'fix-potential-crash-automaticProperties' of https://github.com/mixpanel/mixpanel-swift
+ff35b986735e9a504ef4473cb540f2e4ca2836d9	not-for-merge	branch 'fix-push-compile-error' of https://github.com/mixpanel/mixpanel-swift
+9245359568f45c37252524b3c8a33169c2a5421c	not-for-merge	branch 'fix-race-condition' of https://github.com/mixpanel/mixpanel-swift
+fa8db1d0e92a0524092588a352a945bb6c2ce29d	not-for-merge	branch 'fix-race-conditions-crashes' of https://github.com/mixpanel/mixpanel-swift
+15f75c55e5600d21e3d99ec56dc066d19aa793bb	not-for-merge	branch 'fix-race-conditions-sqlite' of https://github.com/mixpanel/mixpanel-swift
+406358d9f17b6554e8e49ef7487038d2b81ecdd5	not-for-merge	branch 'fix-spm-warning' of https://github.com/mixpanel/mixpanel-swift
+8ee1e19eaecbae2f127ebc70f5dbf45a56a50e45	not-for-merge	branch 'fix-sql-errors' of https://github.com/mixpanel/mixpanel-swift
+840acda4fb41e2aa22e7c11f62560a0996e9da6d	not-for-merge	branch 'fix_dedup_across_app_backgrounds' of https://github.com/mixpanel/mixpanel-swift
+51188c139f29e803f7d234af59dbb2e1d28cb487	not-for-merge	branch 'fix_inapp_for_super_properties' of https://github.com/mixpanel/mixpanel-swift
+e6f974cfe4ec376e8208145cdf77777711e69b7a	not-for-merge	branch 'github-action-release' of https://github.com/mixpanel/mixpanel-swift
+2a8e8cf9612d3352162a1b3bc01b03547c8907a2	not-for-merge	branch 'github-actions' of https://github.com/mixpanel/mixpanel-swift
+1f4b26df7038fda4ffaa93170de88590bbe654e2	not-for-merge	branch 'github-actions-lint' of https://github.com/mixpanel/mixpanel-swift
+671675522f3aa63d30ca0210c9278852d8eeb4ff	not-for-merge	branch 'identify-fix' of https://github.com/mixpanel/mixpanel-swift
+3822117e51853488869aa423c82e092a9865f338	not-for-merge	branch 'identity_v3' of https://github.com/mixpanel/mixpanel-swift
+4fe7326df6835d57c22289110b983ca070bb38d9	not-for-merge	branch 'internal-tracking' of https://github.com/mixpanel/mixpanel-swift
+324d59ff7fd28270b6581084b6f67cd663424a99	not-for-merge	branch 'jared-add-privacy-manifest' of https://github.com/mixpanel/mixpanel-swift
+d02177702e99e3443f4d470116e076df56821847	not-for-merge	branch 'jared-alhpanumeric-token' of https://github.com/mixpanel/mixpanel-swift
+2bc1d108491dfe84319e61d2cb948b119a92bc56	not-for-merge	branch 'jared-archiving-deprecations' of https://github.com/mixpanel/mixpanel-swift
+7d8015c694763f87a617c9f5d41d30d565976e84	not-for-merge	branch 'jared-auto-events-all-instances' of https://github.com/mixpanel/mixpanel-swift
+e733266686863a6e178c08f80ab91e552c41a787	not-for-merge	branch 'jared-bump-podspec-deployment-targets' of https://github.com/mixpanel/mixpanel-swift
+f91e2b0b8b445b48acd597c08c327b297eb73a1f	not-for-merge	branch 'jared-clearTimedEvent' of https://github.com/mixpanel/mixpanel-swift
+d689fa5ee0ff574438bbaa5c5b2bc82184bb0319	not-for-merge	branch 'jared-coalescing' of https://github.com/mixpanel/mixpanel-swift
+0366f7a6b0bd4e4cb73ce6dd1914d49e7fc493d8	not-for-merge	branch 'jared-delete-me-code' of https://github.com/mixpanel/mixpanel-swift
+d0e83f87fa4e651e618ffff69c99c0db37a53849	not-for-merge	branch 'jared-deprecate-decide' of https://github.com/mixpanel/mixpanel-swift
+e1f30b59bb3fd25c3c20ac37dd8cd9c45f5d1654	not-for-merge	branch 'jared-dev-nps-survey' of https://github.com/mixpanel/mixpanel-swift
+368c1bad554d2f2e96ba162bc3b818a87e900eab	not-for-merge	branch 'jared-dont-init-auto-events' of https://github.com/mixpanel/mixpanel-swift
+7ea2dd830f00826cfb5e6077b6045d1171bf8e52	not-for-merge	branch 'jared-dummy-branch' of https://github.com/mixpanel/mixpanel-swift
+1a14bd8ce89698309158157d8d6b7b646bd8a848	not-for-merge	branch 'jared-fix-group-ops' of https://github.com/mixpanel/mixpanel-swift
+64d18d6f1673c9653285b6f35a4e9b537a133309	not-for-merge	branch 'jared-fix-xcode-warnings' of https://github.com/mixpanel/mixpanel-swift
+fa7be805b141dece90f7fe2c1e3f024984e47f1a	not-for-merge	branch 'jared-floating-point-time' of https://github.com/mixpanel/mixpanel-swift
+29473edda505980d2ab147d2648660981885608a	not-for-merge	branch 'jared-flush-background-completion' of https://github.com/mixpanel/mixpanel-swift
+e070c83b0f5d1afd15ac6f25a6aa7b57909db289	not-for-merge	branch 'jared-flush-thread-safety' of https://github.com/mixpanel/mixpanel-swift
+4daa51524e9c93edddceaddb112eca234c8840cc	not-for-merge	branch 'jared-ios-app-on-mac' of https://github.com/mixpanel/mixpanel-swift
+644650e692cbc1364a6c224ff04dd0640a7f9604	not-for-merge	branch 'jared-m1-debug' of https://github.com/mixpanel/mixpanel-swift
+e3d17d30f403e24e9d12adeae13f62a093d79bf0	not-for-merge	branch 'jared-make-decide-delegate' of https://github.com/mixpanel/mixpanel-swift
+8c9b38ac3fd5a66dc190a3c07dd9d23b06eefab4	not-for-merge	branch 'jared-move-privacy-manifest' of https://github.com/mixpanel/mixpanel-swift
+13c7cc96a4e490e8dac378639815d8ca86e623ad	not-for-merge	branch 'jared-ms-time' of https://github.com/mixpanel/mixpanel-swift
+80ea6196ade64b09f2f0289d841260b292a9ec54	not-for-merge	branch 'jared-multi-pr-pick' of https://github.com/mixpanel/mixpanel-swift
+292749a7ab4049e8d06e07deb14c820121cc4fe5	not-for-merge	branch 'jared-optional-mixpaneltype' of https://github.com/mixpanel/mixpanel-swift
+aeb303f3f233d89fa6d68feec750f2657d3bfe78	not-for-merge	branch 'jared-pod-resources-bundle' of https://github.com/mixpanel/mixpanel-swift
+0f021d935f789183cc354a4f56e82f09c2e7d160	not-for-merge	branch 'jared-privacy-resource' of https://github.com/mixpanel/mixpanel-swift
+7a36b2439e08304e301459b58a738e1b69c82bf9	not-for-merge	branch 'jared-remove-db-file-update' of https://github.com/mixpanel/mixpanel-swift
+8821af6e996f2e969762bb228eaf8c086d1d9dfa	not-for-merge	branch 'jared-remove-decide' of https://github.com/mixpanel/mixpanel-swift
+dd8a412d26144019b77bb4aa92725f450138268e	not-for-merge	branch 'jared-remove-survey' of https://github.com/mixpanel/mixpanel-swift
+bde24d6c2c950a172837ce4d0e5bc81aca4073b3	not-for-merge	branch 'jared-serverURL' of https://github.com/mixpanel/mixpanel-swift
+fb5f4c01cf80375be037d8376a4d7cf8b4ae5436	not-for-merge	branch 'jared-set-content-type' of https://github.com/mixpanel/mixpanel-swift
+98ca3be84c016c6afd96cab408d99464f74b5070	not-for-merge	branch 'jared-sql-optimizations' of https://github.com/mixpanel/mixpanel-swift
+a86dacb8bb48891107fc8672129e6560f362daf1	not-for-merge	branch 'jared-strip-whitespace' of https://github.com/mixpanel/mixpanel-swift
+6258d64680074be63e94acc30663b132b7b32764	not-for-merge	branch 'jared-swiftlint-autocorrect' of https://github.com/mixpanel/mixpanel-swift
+c9f4507aa8df360b77a4e68f6804b53ee1b74c13	not-for-merge	branch 'jared-toggle-sdk-props' of https://github.com/mixpanel/mixpanel-swift
+19559221e1f0a9d0593bd4fb9d8b52ebe9e02adb	not-for-merge	branch 'jared-track-implementation' of https://github.com/mixpanel/mixpanel-swift
+91460f263f9d44a4deb5361a722488a9012cf5f8	not-for-merge	branch 'jared-update-archiving' of https://github.com/mixpanel/mixpanel-swift
+992916118005e070d00af965f35b37141a1fffa7	not-for-merge	branch 'jared-update-docs' of https://github.com/mixpanel/mixpanel-swift
+191dcacd86d0246bb2fcb9b1deef80788cc7f26b	not-for-merge	branch 'jared-xcode-warnings' of https://github.com/mixpanel/mixpanel-swift
+fffa4193da0598d256dd00d24acef85b64254850	not-for-merge	branch 'jaredmixpanel-patch-1' of https://github.com/mixpanel/mixpanel-swift
+94d8032d4ed2e2e709c90246b5c0cef70915c7ec	not-for-merge	branch 'jbw-fix-dupes' of https://github.com/mixpanel/mixpanel-swift
+6522fb2acc9b823cf420c8e2dd1233f689ec505a	not-for-merge	branch 'master' of https://github.com/mixpanel/mixpanel-swift
+aa7c38efe69c7f573fa2f953445d027a646fb388	not-for-merge	branch 'multi-instances-fixes' of https://github.com/mixpanel/mixpanel-swift
+8b2fa6edc5df98ca3371f4fc7583f395e9084128	not-for-merge	branch 'remove-integrations-setup' of https://github.com/mixpanel/mixpanel-swift
+ceab23c54d7225feafa1fb32f5f951aeb0f8f2a4	not-for-merge	branch 'remove-isIdleTimerDisabled' of https://github.com/mixpanel/mixpanel-swift
+096e0afd9355e7cacdb027d3b35fe8295b7e9528	not-for-merge	branch 'rename-control-properties' of https://github.com/mixpanel/mixpanel-swift
+b9684d929adc3b934996dc598d8dd548b2d2315f	not-for-merge	branch 'seperateQueues' of https://github.com/mixpanel/mixpanel-swift
+71f7eeebdcb6ba221b7a6ea556fa2800d78a72ca	not-for-merge	branch 'sessionmetadata' of https://github.com/mixpanel/mixpanel-swift
+00ddae54da33852b2a099349873109fa03abc860	not-for-merge	branch 'support-mac-catalyst' of https://github.com/mixpanel/mixpanel-swift
+14e24788c26989a93018e09a306e04768581be54	not-for-merge	branch 'swift-5-support' of https://github.com/mixpanel/mixpanel-swift
+a057763547eeac578e1effe05a4e26319c8197bd	not-for-merge	branch 'swift4' of https://github.com/mixpanel/mixpanel-swift
+d67f573022efcee36136ccfdeb04ec7eb6b7825d	not-for-merge	branch 'test-instance' of https://github.com/mixpanel/mixpanel-swift
+a398ed38fa2c08ed15e88f710d95679964aa28b8	not-for-merge	branch 'test1' of https://github.com/mixpanel/mixpanel-swift
+a398ed38fa2c08ed15e88f710d95679964aa28b8	not-for-merge	branch 'test2' of https://github.com/mixpanel/mixpanel-swift
+ea61147240509094ffcff52a659fe8f91d037883	not-for-merge	branch 'testappex' of https://github.com/mixpanel/mixpanel-swift
+b833af635521d7810892ac336ad350599f69b9fb	not-for-merge	branch 'testtravis' of https://github.com/mixpanel/mixpanel-swift
+71c4db0258c519894c13361116fca27aaea5df48	not-for-merge	branch 'unify-alias-behaviour' of https://github.com/mixpanel/mixpanel-swift
+fc953480340796f778e090dae6e6468370615c78	not-for-merge	branch 'update-docs-id-merge' of https://github.com/mixpanel/mixpanel-swift
+25c1f74ec44ce78dc6764fd7eb5232e01e2e76a0	not-for-merge	branch 'update-readme-for-beta' of https://github.com/mixpanel/mixpanel-swift
+fc43a8f4ea4ed7a571c5067f1d26e04618b11153	not-for-merge	branch 'urban-airship' of https://github.com/mixpanel/mixpanel-swift
+6b71cb33416fbe8bb67ccde6acc5996a1ee4e29b	not-for-merge	branch 'watchOS5-crash' of https://github.com/mixpanel/mixpanel-swift
+c319a6550818dfdbab3357c8dc46f4327b1cd153	not-for-merge	branch 'zihe-bump-ios-11' of https://github.com/mixpanel/mixpanel-swift
+7f4da9e23548994e2a05e3231a5bb978bd4dab83	not-for-merge	branch 'zihe-ci-pods-fix' of https://github.com/mixpanel/mixpanel-swift
+618d2456ebbc7057b61ba5c24ad9315c32106a6f	not-for-merge	branch 'zihe-fix-CI-flake' of https://github.com/mixpanel/mixpanel-swift
+442606e7b0b1e07f94ab0a68fdb661f53e794db5	not-for-merge	branch 'zihe-fix-memory-issue' of https://github.com/mixpanel/mixpanel-swift
+b0fbb6fd1055122dd6c816c4ce6be5f86b5a9a44	not-for-merge	branch 'zihe-flush-batch-size' of https://github.com/mixpanel/mixpanel-swift
+26b8afba3cfad85677df6bff0ae640d6430d8b21	not-for-merge	'refs/pull/1/head' of https://github.com/mixpanel/mixpanel-swift
+71dc761b15fb6a33e6446059d3b44157590bf4fa	not-for-merge	'refs/pull/10/head' of https://github.com/mixpanel/mixpanel-swift
+946d00a8ed921b0b1c209fd6b93a97d7df231186	not-for-merge	'refs/pull/10/merge' of https://github.com/mixpanel/mixpanel-swift
+226112d2bee04e671e0ffcd3d6e1e7ff3c0f5bfd	not-for-merge	'refs/pull/100/head' of https://github.com/mixpanel/mixpanel-swift
+6287f96a4262cce6d94934c15b8c4d75c793b1bb	not-for-merge	'refs/pull/100/merge' of https://github.com/mixpanel/mixpanel-swift
+1f949c4c008fbaf464dbd779270b8115ede98bf4	not-for-merge	'refs/pull/101/head' of https://github.com/mixpanel/mixpanel-swift
+6403f9bccdfb00181f07ceba04407faf20d758fc	not-for-merge	'refs/pull/102/head' of https://github.com/mixpanel/mixpanel-swift
+561ce226f9e2e74487989f716197ec80ded31e32	not-for-merge	'refs/pull/102/merge' of https://github.com/mixpanel/mixpanel-swift
+b0ca954efca1c0a9cd8202c80842ea7b3a8a65bc	not-for-merge	'refs/pull/103/head' of https://github.com/mixpanel/mixpanel-swift
+b9684d929adc3b934996dc598d8dd548b2d2315f	not-for-merge	'refs/pull/104/head' of https://github.com/mixpanel/mixpanel-swift
+c3a82b0f34a2ea98f1d00364c9abf90155b4b494	not-for-merge	'refs/pull/105/head' of https://github.com/mixpanel/mixpanel-swift
+d5b5c787969a97f5ffd4f5988fa74553ac2f0d68	not-for-merge	'refs/pull/106/head' of https://github.com/mixpanel/mixpanel-swift
+d702c663109d6604b7796a6e097892001c7d5d1e	not-for-merge	'refs/pull/107/head' of https://github.com/mixpanel/mixpanel-swift
+3d49b20839b638830309db534698ba526d76b982	not-for-merge	'refs/pull/11/head' of https://github.com/mixpanel/mixpanel-swift
+5483b0321760a6365961d951492e55969120e45d	not-for-merge	'refs/pull/11/merge' of https://github.com/mixpanel/mixpanel-swift
+f763c8152f22b66aa49c546865dd5b2e9379d07b	not-for-merge	'refs/pull/110/head' of https://github.com/mixpanel/mixpanel-swift
+ce3b11b7a8772d247c376ab7abe2f45fd9a91cf4	not-for-merge	'refs/pull/112/head' of https://github.com/mixpanel/mixpanel-swift
+883670b04645b305e1f2a6e4d091b6bd59ec79b1	not-for-merge	'refs/pull/113/head' of https://github.com/mixpanel/mixpanel-swift
+507d8612f6be7239cfea9164b6a475057bb41575	not-for-merge	'refs/pull/117/head' of https://github.com/mixpanel/mixpanel-swift
+c4279b298c54149caf074e3bdf0e88b41fd7f581	not-for-merge	'refs/pull/12/head' of https://github.com/mixpanel/mixpanel-swift
+904a794823b9652ec1deb03662109df0a3109730	not-for-merge	'refs/pull/12/merge' of https://github.com/mixpanel/mixpanel-swift
+098b1301a89574b491d90b40347e53b894284f9a	not-for-merge	'refs/pull/123/head' of https://github.com/mixpanel/mixpanel-swift
+c276628b0083f8e8c6261f7a411ffe3f0d4e9ef6	not-for-merge	'refs/pull/125/head' of https://github.com/mixpanel/mixpanel-swift
+e28b6e8292d953ae6080e84c55dfb45eb4887a39	not-for-merge	'refs/pull/126/head' of https://github.com/mixpanel/mixpanel-swift
+45e1422db86eea163ff7e5987e7538cb4c880198	not-for-merge	'refs/pull/126/merge' of https://github.com/mixpanel/mixpanel-swift
+c15d97749dfdef01a781279d4109d047d2e130c4	not-for-merge	'refs/pull/129/head' of https://github.com/mixpanel/mixpanel-swift
+2177c6004f65eaa171d95f2eec4253cf92df29c5	not-for-merge	'refs/pull/13/head' of https://github.com/mixpanel/mixpanel-swift
+7d7769e8964a0f92fc1a1d708437b800db3fc7eb	not-for-merge	'refs/pull/130/head' of https://github.com/mixpanel/mixpanel-swift
+2bb9f733e19b34344cc1de12ae0aabac76ef8aeb	not-for-merge	'refs/pull/130/merge' of https://github.com/mixpanel/mixpanel-swift
+869aeee76808bb690775c57470d49f891dbf4657	not-for-merge	'refs/pull/131/head' of https://github.com/mixpanel/mixpanel-swift
+e5249de44e0047ae3285c919d8769e307805a6e9	not-for-merge	'refs/pull/131/merge' of https://github.com/mixpanel/mixpanel-swift
+1d979cdcaa5e8a2fc07aaf825365607a24388dfa	not-for-merge	'refs/pull/135/head' of https://github.com/mixpanel/mixpanel-swift
+b7a72d46312286bd92297c6f3b8188e30bd31374	not-for-merge	'refs/pull/136/head' of https://github.com/mixpanel/mixpanel-swift
+f35dfb2a20fb80b87e0e4001bcea353667cdedf5	not-for-merge	'refs/pull/136/merge' of https://github.com/mixpanel/mixpanel-swift
+3c816a4955b7bb19f9758a74f4e30b2a003040f7	not-for-merge	'refs/pull/14/head' of https://github.com/mixpanel/mixpanel-swift
+1448e1ba1c543f62b4a198eb866c50b9e4357284	not-for-merge	'refs/pull/141/head' of https://github.com/mixpanel/mixpanel-swift
+3ba92a3ada92ee81bcd79b13676ca641c49d1983	not-for-merge	'refs/pull/142/head' of https://github.com/mixpanel/mixpanel-swift
+3bfb01c1fc57f8d3c2ce3021e9bbd622c66b2533	not-for-merge	'refs/pull/143/head' of https://github.com/mixpanel/mixpanel-swift
+e4e090cd6726e30aa7eaf9b9c3fdb32d5818b82a	not-for-merge	'refs/pull/144/head' of https://github.com/mixpanel/mixpanel-swift
+ab292d462502834d8794b40e84c39b23c5976550	not-for-merge	'refs/pull/145/head' of https://github.com/mixpanel/mixpanel-swift
+671675522f3aa63d30ca0210c9278852d8eeb4ff	not-for-merge	'refs/pull/146/head' of https://github.com/mixpanel/mixpanel-swift
+b833af635521d7810892ac336ad350599f69b9fb	not-for-merge	'refs/pull/147/head' of https://github.com/mixpanel/mixpanel-swift
+b38294f83728484367a30d719025babb12684d9f	not-for-merge	'refs/pull/150/head' of https://github.com/mixpanel/mixpanel-swift
+71f7eeebdcb6ba221b7a6ea556fa2800d78a72ca	not-for-merge	'refs/pull/153/head' of https://github.com/mixpanel/mixpanel-swift
+09abe18914dcd479aaeb0ade97e145d8807679b9	not-for-merge	'refs/pull/154/head' of https://github.com/mixpanel/mixpanel-swift
+4b86a0f8dc8771a3b58ce7423681f93c89cd856f	not-for-merge	'refs/pull/157/head' of https://github.com/mixpanel/mixpanel-swift
+55ccd0607045153ab9b7b9a609b1a9b83f659e24	not-for-merge	'refs/pull/159/head' of https://github.com/mixpanel/mixpanel-swift
+e1739cbe43ca96f3c1356bfd27ad7c16ed21a7c3	not-for-merge	'refs/pull/16/head' of https://github.com/mixpanel/mixpanel-swift
+5b5a3800fb13bbb292fcca56f6aeed926a65b7f0	not-for-merge	'refs/pull/160/head' of https://github.com/mixpanel/mixpanel-swift
+fc43a8f4ea4ed7a571c5067f1d26e04618b11153	not-for-merge	'refs/pull/164/head' of https://github.com/mixpanel/mixpanel-swift
+5ae9da4b5872eb92b29a6ffd5ace56e806ce9611	not-for-merge	'refs/pull/167/head' of https://github.com/mixpanel/mixpanel-swift
+0c2e3191c2f930ffc0822798a0432e6ab224170d	not-for-merge	'refs/pull/168/head' of https://github.com/mixpanel/mixpanel-swift
+ec8db226ea7917d97d911b91e664c71f7d5e659d	not-for-merge	'refs/pull/174/head' of https://github.com/mixpanel/mixpanel-swift
+4e6ba555d7003250748da3c091bb9516dafecdb2	not-for-merge	'refs/pull/177/head' of https://github.com/mixpanel/mixpanel-swift
+efd6b6712ac89e2edf4d2a20cb7011e11de5a2c1	not-for-merge	'refs/pull/179/head' of https://github.com/mixpanel/mixpanel-swift
+bcac16f24a07b71723c11deb52d7e9b44e492096	not-for-merge	'refs/pull/185/head' of https://github.com/mixpanel/mixpanel-swift
+f1bf152e9cb85f85b00230ae915f6a6f8d190cbc	not-for-merge	'refs/pull/185/merge' of https://github.com/mixpanel/mixpanel-swift
+e601b48a4cfb59836e2170e62a167e09c7adcb5d	not-for-merge	'refs/pull/186/head' of https://github.com/mixpanel/mixpanel-swift
+3b4ac73e2df01408fb64e05449426a5ed17c0299	not-for-merge	'refs/pull/188/head' of https://github.com/mixpanel/mixpanel-swift
+bef607193c5b128a2f1386ba7d7b3ea85fc9817e	not-for-merge	'refs/pull/190/head' of https://github.com/mixpanel/mixpanel-swift
+111aa1886d636810bb1d0b03565a9eccc5013439	not-for-merge	'refs/pull/193/head' of https://github.com/mixpanel/mixpanel-swift
+be24293d4f35379029434b76a436f52a59390774	not-for-merge	'refs/pull/194/head' of https://github.com/mixpanel/mixpanel-swift
+0e7469b54c4ebde670b1b0446a387b8dac0e80e0	not-for-merge	'refs/pull/195/head' of https://github.com/mixpanel/mixpanel-swift
+69bba744b450e0aec766db25ce6310570bfe5dea	not-for-merge	'refs/pull/195/merge' of https://github.com/mixpanel/mixpanel-swift
+185cac5d2dcfe423609d1baaf5b0bf6ad240de6f	not-for-merge	'refs/pull/199/head' of https://github.com/mixpanel/mixpanel-swift
+39fe0d994f66528ed98fabd7e742e92de6f19518	not-for-merge	'refs/pull/2/head' of https://github.com/mixpanel/mixpanel-swift
+311a36686e405fda5a2b793e3fb8c1b704331b76	not-for-merge	'refs/pull/202/head' of https://github.com/mixpanel/mixpanel-swift
+a2a94e62064dc75b8120dff1665ba7723054081e	not-for-merge	'refs/pull/204/head' of https://github.com/mixpanel/mixpanel-swift
+d6d4eebbd6f8a301d9efaf4070ba6a61fa10967d	not-for-merge	'refs/pull/207/head' of https://github.com/mixpanel/mixpanel-swift
+b3c326aa6a01739441025d224c125ba6a9f0d8aa	not-for-merge	'refs/pull/209/head' of https://github.com/mixpanel/mixpanel-swift
+a86d6f38e5b9f380ec04df38f8157932a25804d7	not-for-merge	'refs/pull/212/head' of https://github.com/mixpanel/mixpanel-swift
+50c948b83c4b3bdf98efba57910f268dfbdf0cd3	not-for-merge	'refs/pull/214/head' of https://github.com/mixpanel/mixpanel-swift
+35226918159aee5f4ad2e28e1f791817ef561588	not-for-merge	'refs/pull/216/head' of https://github.com/mixpanel/mixpanel-swift
+24aa2911f0a2de469a850b6ba00e87b42d038c04	not-for-merge	'refs/pull/219/head' of https://github.com/mixpanel/mixpanel-swift
+ce0f98d38a67de956e4060fe47ee69d20df9e82e	not-for-merge	'refs/pull/224/head' of https://github.com/mixpanel/mixpanel-swift
+02cd10d2e591672ba792319adaf7f082a2f8ef11	not-for-merge	'refs/pull/225/head' of https://github.com/mixpanel/mixpanel-swift
+c33a4dcf16940b317c8044f4ba4626b10b77b3ca	not-for-merge	'refs/pull/227/head' of https://github.com/mixpanel/mixpanel-swift
+b8bb5a5ec6777d6896601e9879c81f42a7cbe6da	not-for-merge	'refs/pull/227/merge' of https://github.com/mixpanel/mixpanel-swift
+baa909b1c29e686a07660ab8b69fd4744768ee74	not-for-merge	'refs/pull/23/head' of https://github.com/mixpanel/mixpanel-swift
+4726d02f9de6bae8d50239dbe2c0a5c99522d950	not-for-merge	'refs/pull/230/head' of https://github.com/mixpanel/mixpanel-swift
+51427563da3c496ac41c3ff96134b82f110ac89d	not-for-merge	'refs/pull/230/merge' of https://github.com/mixpanel/mixpanel-swift
+1c7d0c8ab2839a2b34b80a329ee31dac09c97720	not-for-merge	'refs/pull/238/head' of https://github.com/mixpanel/mixpanel-swift
+7a54937172dd89425a9bbd1308c2e2fc4bd43262	not-for-merge	'refs/pull/244/head' of https://github.com/mixpanel/mixpanel-swift
+fdd8d5c83bc6f2533e06d13d2fe9587c9cb64d3d	not-for-merge	'refs/pull/246/head' of https://github.com/mixpanel/mixpanel-swift
+500a72965ca0dc28909a84b8bfc5d842f26d7388	not-for-merge	'refs/pull/246/merge' of https://github.com/mixpanel/mixpanel-swift
+77e95633a271871010a3e3472ac552d9bd3a7ef3	not-for-merge	'refs/pull/250/head' of https://github.com/mixpanel/mixpanel-swift
+e532b3319964eda094c2bf574296e9176488f8fe	not-for-merge	'refs/pull/251/head' of https://github.com/mixpanel/mixpanel-swift
+bcfdba858cea1376f6e34ef7764687f7f391a951	not-for-merge	'refs/pull/251/merge' of https://github.com/mixpanel/mixpanel-swift
+59ce152bef95ac0a4170e7ffba2e5b9af700c535	not-for-merge	'refs/pull/252/head' of https://github.com/mixpanel/mixpanel-swift
+925975c162cba4674b929dac5fd26e9491fcfa9c	not-for-merge	'refs/pull/253/head' of https://github.com/mixpanel/mixpanel-swift
+b5d400a1060cf7416622771ae375872336444122	not-for-merge	'refs/pull/254/head' of https://github.com/mixpanel/mixpanel-swift
+ca0680575ddffbd6f6892f16b35308e8cf8fc39f	not-for-merge	'refs/pull/256/head' of https://github.com/mixpanel/mixpanel-swift
+96a5b12042004a961db6eaecee1f04233e4f9b3b	not-for-merge	'refs/pull/258/head' of https://github.com/mixpanel/mixpanel-swift
+6e628fe7ef0b245fed3d5be5234bdc51b10698bb	not-for-merge	'refs/pull/260/head' of https://github.com/mixpanel/mixpanel-swift
+2dba0e9c347c43de1f23ad91ccf2ed8b55ee183e	not-for-merge	'refs/pull/261/head' of https://github.com/mixpanel/mixpanel-swift
+0eb7adefb27d011918b8ac94880ecb4e99ccf512	not-for-merge	'refs/pull/262/head' of https://github.com/mixpanel/mixpanel-swift
+086bc360cf57176be7626fca1940e45210d285b1	not-for-merge	'refs/pull/263/head' of https://github.com/mixpanel/mixpanel-swift
+4b9f9e6b06924a2bf9a3b381b442464439531249	not-for-merge	'refs/pull/264/head' of https://github.com/mixpanel/mixpanel-swift
+3980d1b02d6b92d2a46d61fd283986a8cdb0e7df	not-for-merge	'refs/pull/265/head' of https://github.com/mixpanel/mixpanel-swift
+0b61499264ad81fdce969e4b3d9f418dd5e2f143	not-for-merge	'refs/pull/267/head' of https://github.com/mixpanel/mixpanel-swift
+4a36cac26955afe112fee29625dca24c6a4ca165	not-for-merge	'refs/pull/273/head' of https://github.com/mixpanel/mixpanel-swift
+4d7a3e0fb87995039bd6215fca4d9decb7ee4c52	not-for-merge	'refs/pull/276/head' of https://github.com/mixpanel/mixpanel-swift
+57e417e5b9e375263d2fc8644673220d723bb5ef	not-for-merge	'refs/pull/281/head' of https://github.com/mixpanel/mixpanel-swift
+3d7551b63e8611ac4ed45e4ecda238e6caca83f1	not-for-merge	'refs/pull/282/head' of https://github.com/mixpanel/mixpanel-swift
+ebbb28d2d6be9c5b6681904f8acc7e1b9db31962	not-for-merge	'refs/pull/283/head' of https://github.com/mixpanel/mixpanel-swift
+703a182437ffa0db0f72ec2036672429d7884706	not-for-merge	'refs/pull/285/head' of https://github.com/mixpanel/mixpanel-swift
+04a052b776f619da55d8397e98e586eb9d3325f7	not-for-merge	'refs/pull/287/head' of https://github.com/mixpanel/mixpanel-swift
+46c18d936037c5d8a323e8a49d3c013c128a675f	not-for-merge	'refs/pull/288/head' of https://github.com/mixpanel/mixpanel-swift
+4f8c57f2cc273973e7894817072cd96cd44e8640	not-for-merge	'refs/pull/289/head' of https://github.com/mixpanel/mixpanel-swift
+b89db52fa8b6cb87de8a90ddc24058f7541e7955	not-for-merge	'refs/pull/290/head' of https://github.com/mixpanel/mixpanel-swift
+51188c139f29e803f7d234af59dbb2e1d28cb487	not-for-merge	'refs/pull/291/head' of https://github.com/mixpanel/mixpanel-swift
+6806d9db941c8ce6bffddc26159ba2f4c5a305d6	not-for-merge	'refs/pull/292/head' of https://github.com/mixpanel/mixpanel-swift
+f1346f4b2adad3a69a3ec2dcacdf7b678abddda6	not-for-merge	'refs/pull/293/head' of https://github.com/mixpanel/mixpanel-swift
+14e24788c26989a93018e09a306e04768581be54	not-for-merge	'refs/pull/296/head' of https://github.com/mixpanel/mixpanel-swift
+38b908fde99e14a0a98dbdfe3819455d9bde20b7	not-for-merge	'refs/pull/3/head' of https://github.com/mixpanel/mixpanel-swift
+db6f79072d3a27f0efed2b89a82195c9205a1e6c	not-for-merge	'refs/pull/30/head' of https://github.com/mixpanel/mixpanel-swift
+ad2e6c25d5658be35affedf449e83dd3824b642a	not-for-merge	'refs/pull/303/head' of https://github.com/mixpanel/mixpanel-swift
+759e9dac21a40d74ef96ecc6ebc3444c8010f387	not-for-merge	'refs/pull/304/head' of https://github.com/mixpanel/mixpanel-swift
+0042596de744723886698d2966b886dddb8e520e	not-for-merge	'refs/pull/305/head' of https://github.com/mixpanel/mixpanel-swift
+ffdb39dedbcc72457eafa412f783d02942fe072b	not-for-merge	'refs/pull/306/head' of https://github.com/mixpanel/mixpanel-swift
+b93c97877270ac8f58a77005448cd14858d186f6	not-for-merge	'refs/pull/307/head' of https://github.com/mixpanel/mixpanel-swift
+3fad28d9e074d8e139a4b65b77119fffd913f315	not-for-merge	'refs/pull/31/head' of https://github.com/mixpanel/mixpanel-swift
+c53ae78f28e763579b71c58887d867ab127f8ab9	not-for-merge	'refs/pull/31/merge' of https://github.com/mixpanel/mixpanel-swift
+4743dfd0f15b96352f8b93a853a391fec2524648	not-for-merge	'refs/pull/316/head' of https://github.com/mixpanel/mixpanel-swift
+ae8acf964bda713ae811af5331be69848840214f	not-for-merge	'refs/pull/317/head' of https://github.com/mixpanel/mixpanel-swift
+096e0afd9355e7cacdb027d3b35fe8295b7e9528	not-for-merge	'refs/pull/319/head' of https://github.com/mixpanel/mixpanel-swift
+c55c76593002835192646e4d6047fdda4f49f666	not-for-merge	'refs/pull/32/head' of https://github.com/mixpanel/mixpanel-swift
+6245cc6e2d3c66587a60041716915c57904ab672	not-for-merge	'refs/pull/32/merge' of https://github.com/mixpanel/mixpanel-swift
+fa8db1d0e92a0524092588a352a945bb6c2ce29d	not-for-merge	'refs/pull/322/head' of https://github.com/mixpanel/mixpanel-swift
+840acda4fb41e2aa22e7c11f62560a0996e9da6d	not-for-merge	'refs/pull/324/head' of https://github.com/mixpanel/mixpanel-swift
+cdd291450995b9b701007e5fe1010c4ad4597349	not-for-merge	'refs/pull/325/head' of https://github.com/mixpanel/mixpanel-swift
+fd58358bfa8f26f80cabc7e3b381cc9aa854ea95	not-for-merge	'refs/pull/328/head' of https://github.com/mixpanel/mixpanel-swift
+30034f5b490f9cd1b73fb303e260b834aa7476f2	not-for-merge	'refs/pull/330/head' of https://github.com/mixpanel/mixpanel-swift
+6b71cb33416fbe8bb67ccde6acc5996a1ee4e29b	not-for-merge	'refs/pull/331/head' of https://github.com/mixpanel/mixpanel-swift
+82f0c15b75b8af171e59aa4300caab9ed11ac300	not-for-merge	'refs/pull/333/head' of https://github.com/mixpanel/mixpanel-swift
+761566740a03fceaa0acade47e70c1497cde7c11	not-for-merge	'refs/pull/334/head' of https://github.com/mixpanel/mixpanel-swift
+94d8032d4ed2e2e709c90246b5c0cef70915c7ec	not-for-merge	'refs/pull/337/head' of https://github.com/mixpanel/mixpanel-swift
+ede8e62d43620e6dbcb28c0c5e87a9732476a33a	not-for-merge	'refs/pull/338/head' of https://github.com/mixpanel/mixpanel-swift
+7b69910aa4c3085eceabaf98d6e200dcafd09db4	not-for-merge	'refs/pull/34/head' of https://github.com/mixpanel/mixpanel-swift
+03379ec97a76305e722b49bd95e0750df94a10f3	not-for-merge	'refs/pull/340/head' of https://github.com/mixpanel/mixpanel-swift
+d193a0f055ec01e450aae068cb6ab160c5bb4896	not-for-merge	'refs/pull/341/head' of https://github.com/mixpanel/mixpanel-swift
+6335dae775db22356d765ee7b2125edd66f117b3	not-for-merge	'refs/pull/343/head' of https://github.com/mixpanel/mixpanel-swift
+e1429ea83c33b8b95e31515c11e14f1af97ab384	not-for-merge	'refs/pull/344/head' of https://github.com/mixpanel/mixpanel-swift
+e893ec0735ef17b07eb46639629cca57ade6ee0b	not-for-merge	'refs/pull/345/head' of https://github.com/mixpanel/mixpanel-swift
+a5a74bfc5ff5b695e84214c607e68f91daec8943	not-for-merge	'refs/pull/348/head' of https://github.com/mixpanel/mixpanel-swift
+793db1ddce377b186a04137c95ffb5ed23999e4b	not-for-merge	'refs/pull/35/head' of https://github.com/mixpanel/mixpanel-swift
+f4e540fce71188f34f106378f4ef2d4e8830ea08	not-for-merge	'refs/pull/351/head' of https://github.com/mixpanel/mixpanel-swift
+fc953480340796f778e090dae6e6468370615c78	not-for-merge	'refs/pull/356/head' of https://github.com/mixpanel/mixpanel-swift
+b363856b13186b67d5c9dcdef38ff68bc5108e37	not-for-merge	'refs/pull/360/head' of https://github.com/mixpanel/mixpanel-swift
+7cbdc0e793d54a5bbced402620149970b0117306	not-for-merge	'refs/pull/361/head' of https://github.com/mixpanel/mixpanel-swift
+00ddae54da33852b2a099349873109fa03abc860	not-for-merge	'refs/pull/362/head' of https://github.com/mixpanel/mixpanel-swift
+ff35b986735e9a504ef4473cb540f2e4ca2836d9	not-for-merge	'refs/pull/363/head' of https://github.com/mixpanel/mixpanel-swift
+5c88c8bfaedf91f222f651e6158e195203dcf286	not-for-merge	'refs/pull/364/head' of https://github.com/mixpanel/mixpanel-swift
+8ba354aa710624a15b161587ea7d1d0ebc2263ac	not-for-merge	'refs/pull/365/head' of https://github.com/mixpanel/mixpanel-swift
+06d878896af66ec2f1184b2ccfd3c8aa2e101e30	not-for-merge	'refs/pull/366/head' of https://github.com/mixpanel/mixpanel-swift
+78e13f300e27a9a32bc51bcb5d97a8efde503fbc	not-for-merge	'refs/pull/369/head' of https://github.com/mixpanel/mixpanel-swift
+dce5ec5fd05aac65fdd1b60d3877794052eeb542	not-for-merge	'refs/pull/37/head' of https://github.com/mixpanel/mixpanel-swift
+9169ec13a2e35d8ca027faea7438ae6c91eb8a5d	not-for-merge	'refs/pull/370/head' of https://github.com/mixpanel/mixpanel-swift
+8e0f481f34b868961a9af81c3080bd5d5938a2db	not-for-merge	'refs/pull/371/head' of https://github.com/mixpanel/mixpanel-swift
+4dcb3e9ed2637b1822f0c3983c11efa46609f5d2	not-for-merge	'refs/pull/373/head' of https://github.com/mixpanel/mixpanel-swift
+9bbc3b070ecfc44c6feeb1b4dfa5754bf75f9476	not-for-merge	'refs/pull/378/head' of https://github.com/mixpanel/mixpanel-swift
+30e2e6b7ed636f13d9f79e6ed0017199e5b2d0a1	not-for-merge	'refs/pull/385/head' of https://github.com/mixpanel/mixpanel-swift
+23a7e8ac34a17c99bcd62ec4bbfbf9f0377b7d67	not-for-merge	'refs/pull/388/head' of https://github.com/mixpanel/mixpanel-swift
+7fdac00c65b9a686d348c544fca1bc70e7791efc	not-for-merge	'refs/pull/389/head' of https://github.com/mixpanel/mixpanel-swift
+e8a8228e721ebf439387849e2fbeeeeeccfd1d0c	not-for-merge	'refs/pull/39/head' of https://github.com/mixpanel/mixpanel-swift
+74b92e7600a64d18dc2c7372fbc16ca620d882f5	not-for-merge	'refs/pull/392/head' of https://github.com/mixpanel/mixpanel-swift
+73a98c8a3b62c4b0f9e83e0c3b52e0fb0e2e0be0	not-for-merge	'refs/pull/393/head' of https://github.com/mixpanel/mixpanel-swift
+aafcf2d96063a7a50f4404175117fe04a09849e5	not-for-merge	'refs/pull/396/head' of https://github.com/mixpanel/mixpanel-swift
+d83984d389f98f93f45a5cfb23d8168e2818e5f9	not-for-merge	'refs/pull/397/head' of https://github.com/mixpanel/mixpanel-swift
+e0cf734c8d614e8cfb29208a0f1d0ead557e730e	not-for-merge	'refs/pull/399/head' of https://github.com/mixpanel/mixpanel-swift
+3dac92aa1cbbd52ac7d31ce08f648760db2216d7	not-for-merge	'refs/pull/4/head' of https://github.com/mixpanel/mixpanel-swift
+2f211eb1d06a8221ddd8144d8ac772ba4e1b21c9	not-for-merge	'refs/pull/4/merge' of https://github.com/mixpanel/mixpanel-swift
+058690334522c3d36ecba6607f39f5cb75f798c3	not-for-merge	'refs/pull/40/head' of https://github.com/mixpanel/mixpanel-swift
+f45cebec084a3612f11757345041826ddc8d11bd	not-for-merge	'refs/pull/400/head' of https://github.com/mixpanel/mixpanel-swift
+54745f01fa52dec86f385da77950d95c44dc4e9e	not-for-merge	'refs/pull/403/head' of https://github.com/mixpanel/mixpanel-swift
+6b9c97d66c070489a7dd644851c7d9954de4b150	not-for-merge	'refs/pull/405/head' of https://github.com/mixpanel/mixpanel-swift
+9e3f43a6a5f2f7b67326a769de16f8924ffc6d3c	not-for-merge	'refs/pull/407/head' of https://github.com/mixpanel/mixpanel-swift
+06866e65f877ab8be60ea075e329b97fabd5f8f7	not-for-merge	'refs/pull/408/head' of https://github.com/mixpanel/mixpanel-swift
+6cd01eefaef026f271a4cd6288d7d052a8738e6d	not-for-merge	'refs/pull/409/head' of https://github.com/mixpanel/mixpanel-swift
+be155c4f81558be8cad5051541e02489de74f120	not-for-merge	'refs/pull/41/head' of https://github.com/mixpanel/mixpanel-swift
+b8c7a2166cbe6738c49e6a89636ffac4c7efeb1d	not-for-merge	'refs/pull/411/head' of https://github.com/mixpanel/mixpanel-swift
+2656324d945e390f14e19bb8a2fd8300f73c741a	not-for-merge	'refs/pull/412/head' of https://github.com/mixpanel/mixpanel-swift
+89825f27ee53c68108aa555d1b82d361e36ea04f	not-for-merge	'refs/pull/413/head' of https://github.com/mixpanel/mixpanel-swift
+ec0480415d7cbde4ee9a86b5a4b692430b9cd644	not-for-merge	'refs/pull/414/head' of https://github.com/mixpanel/mixpanel-swift
+263a2ca4dbf4beb6ef78dc70f660c1e5d95b6339	not-for-merge	'refs/pull/418/head' of https://github.com/mixpanel/mixpanel-swift
+f3482cf8a80d43fed599581cb1a063314421b78e	not-for-merge	'refs/pull/422/head' of https://github.com/mixpanel/mixpanel-swift
+08704c7f9a3d58fe4a1f3390ed894b4c19af44a1	not-for-merge	'refs/pull/423/head' of https://github.com/mixpanel/mixpanel-swift
+c8f326d21fa060324361b45cdaee3f9031af6675	not-for-merge	'refs/pull/425/head' of https://github.com/mixpanel/mixpanel-swift
+2bc1d108491dfe84319e61d2cb948b119a92bc56	not-for-merge	'refs/pull/427/head' of https://github.com/mixpanel/mixpanel-swift
+f91e2b0b8b445b48acd597c08c327b297eb73a1f	not-for-merge	'refs/pull/430/head' of https://github.com/mixpanel/mixpanel-swift
+6d4d1e24e904734b45eee79cf535bb9e6314f7f5	not-for-merge	'refs/pull/434/head' of https://github.com/mixpanel/mixpanel-swift
+7d8015c694763f87a617c9f5d41d30d565976e84	not-for-merge	'refs/pull/436/head' of https://github.com/mixpanel/mixpanel-swift
+885b3260cc15ccc6198a9e5c886b3ea81014b7e0	not-for-merge	'refs/pull/437/head' of https://github.com/mixpanel/mixpanel-swift
+461bf55fd0be04575ee76c976fdddde18ea18228	not-for-merge	'refs/pull/438/head' of https://github.com/mixpanel/mixpanel-swift
+25c1f74ec44ce78dc6764fd7eb5232e01e2e76a0	not-for-merge	'refs/pull/439/head' of https://github.com/mixpanel/mixpanel-swift
+0366f7a6b0bd4e4cb73ce6dd1914d49e7fc493d8	not-for-merge	'refs/pull/440/head' of https://github.com/mixpanel/mixpanel-swift
+d19a3f2ffacefc641b830ab4bb46fde30fdcc443	not-for-merge	'refs/pull/441/head' of https://github.com/mixpanel/mixpanel-swift
+8da807293a69f95c7fa5779e04196f37fc40cec5	not-for-merge	'refs/pull/442/head' of https://github.com/mixpanel/mixpanel-swift
+c895b47f8ff5136030d6c598953d23a3f2d52056	not-for-merge	'refs/pull/443/head' of https://github.com/mixpanel/mixpanel-swift
+2a8e8cf9612d3352162a1b3bc01b03547c8907a2	not-for-merge	'refs/pull/446/head' of https://github.com/mixpanel/mixpanel-swift
+292749a7ab4049e8d06e07deb14c820121cc4fe5	not-for-merge	'refs/pull/447/head' of https://github.com/mixpanel/mixpanel-swift
+30c8def642ae3303c0d8f5f485b341934305eee3	not-for-merge	'refs/pull/448/head' of https://github.com/mixpanel/mixpanel-swift
+1f4b26df7038fda4ffaa93170de88590bbe654e2	not-for-merge	'refs/pull/451/head' of https://github.com/mixpanel/mixpanel-swift
+e6f974cfe4ec376e8208145cdf77777711e69b7a	not-for-merge	'refs/pull/452/head' of https://github.com/mixpanel/mixpanel-swift
+f000473a286d8c8780a5123669b5398d0c402052	not-for-merge	'refs/pull/453/head' of https://github.com/mixpanel/mixpanel-swift
+9827e146d328042e05b272bd30fcc9b3c54ea74f	not-for-merge	'refs/pull/454/head' of https://github.com/mixpanel/mixpanel-swift
+ceab23c54d7225feafa1fb32f5f951aeb0f8f2a4	not-for-merge	'refs/pull/455/head' of https://github.com/mixpanel/mixpanel-swift
+6258d64680074be63e94acc30663b132b7b32764	not-for-merge	'refs/pull/456/head' of https://github.com/mixpanel/mixpanel-swift
+25176b5d57fd1e08f155a0323d80a08e0bdeab0c	not-for-merge	'refs/pull/46/head' of https://github.com/mixpanel/mixpanel-swift
+62d08b3608b403bfa9a22b2440e3c548702be862	not-for-merge	'refs/pull/460/head' of https://github.com/mixpanel/mixpanel-swift
+5cef78f908faa396707e3de3a37fd931eec0e8d2	not-for-merge	'refs/pull/461/head' of https://github.com/mixpanel/mixpanel-swift
+601e713711d0517b57daa869c534abd44f26aedf	not-for-merge	'refs/pull/462/head' of https://github.com/mixpanel/mixpanel-swift
+5d5216fb749579e260cfda8d1613934c2a4721ef	not-for-merge	'refs/pull/464/head' of https://github.com/mixpanel/mixpanel-swift
+b440a1cb4e57c9cdf3ae7e5d7db94703cfbad61d	not-for-merge	'refs/pull/468/head' of https://github.com/mixpanel/mixpanel-swift
+c555e1f5ae10aa10ef1b7e2134cd514475c1dcce	not-for-merge	'refs/pull/469/head' of https://github.com/mixpanel/mixpanel-swift
+c5c375249376090c98152a883b157be0c04bb0ee	not-for-merge	'refs/pull/47/head' of https://github.com/mixpanel/mixpanel-swift
+7e714b32f6d1218f9125109e51c80762d67a99df	not-for-merge	'refs/pull/471/head' of https://github.com/mixpanel/mixpanel-swift
+5909472e5be801f43ca43ea17bf1a515c9b7e38d	not-for-merge	'refs/pull/473/head' of https://github.com/mixpanel/mixpanel-swift
+6ee1f2cfd6d66b824ab1fb4e48b5618e3265ec0e	not-for-merge	'refs/pull/475/head' of https://github.com/mixpanel/mixpanel-swift
+1348b965047d4cac616d9e4bae0167d8788e3b9c	not-for-merge	'refs/pull/477/head' of https://github.com/mixpanel/mixpanel-swift
+1348b965047d4cac616d9e4bae0167d8788e3b9c	not-for-merge	'refs/pull/478/head' of https://github.com/mixpanel/mixpanel-swift
+6482bac7270d58d2752ce227db4fbbf8639ed878	not-for-merge	'refs/pull/480/head' of https://github.com/mixpanel/mixpanel-swift
+db02aef1e5d84df8af1462ba770127604eedc853	not-for-merge	'refs/pull/488/head' of https://github.com/mixpanel/mixpanel-swift
+8b2fa6edc5df98ca3371f4fc7583f395e9084128	not-for-merge	'refs/pull/489/head' of https://github.com/mixpanel/mixpanel-swift
+57fd8f0cc2e928ef7fee83a4b65a928467516b41	not-for-merge	'refs/pull/49/head' of https://github.com/mixpanel/mixpanel-swift
+15f75c55e5600d21e3d99ec56dc066d19aa793bb	not-for-merge	'refs/pull/491/head' of https://github.com/mixpanel/mixpanel-swift
+864463badd99933db3477115d297d884b5a1e7ef	not-for-merge	'refs/pull/492/head' of https://github.com/mixpanel/mixpanel-swift
+df41dbe34995196ec396015402d2de61b88c0a05	not-for-merge	'refs/pull/493/head' of https://github.com/mixpanel/mixpanel-swift
+8550019e385bc2ae08ae2ddd24572f003c700d9d	not-for-merge	'refs/pull/494/head' of https://github.com/mixpanel/mixpanel-swift
+4f25ef6685350052ba5f5f1021977d2294b81369	not-for-merge	'refs/pull/496/head' of https://github.com/mixpanel/mixpanel-swift
+32e312d2dc3d7b8bc979af9b48db9805ac9cc1bb	not-for-merge	'refs/pull/497/head' of https://github.com/mixpanel/mixpanel-swift
+b85503a2a8cf9910511c378d890062ab79572c5c	not-for-merge	'refs/pull/498/head' of https://github.com/mixpanel/mixpanel-swift
+d2807c144cea8e6ae11617642dd82662c587e495	not-for-merge	'refs/pull/499/head' of https://github.com/mixpanel/mixpanel-swift
+67ce443a82ae68d6151f0d3c757817b5ac05965c	not-for-merge	'refs/pull/500/head' of https://github.com/mixpanel/mixpanel-swift
+c8df59ec775d671dbcff3df871e7c888c5807490	not-for-merge	'refs/pull/501/head' of https://github.com/mixpanel/mixpanel-swift
+3bb85c7dd083ae892f8f077496756898640989dd	not-for-merge	'refs/pull/505/head' of https://github.com/mixpanel/mixpanel-swift
+fb5f4c01cf80375be037d8376a4d7cf8b4ae5436	not-for-merge	'refs/pull/506/head' of https://github.com/mixpanel/mixpanel-swift
+3d392ca26d95037ccc7df0a6294ebea73751f323	not-for-merge	'refs/pull/508/head' of https://github.com/mixpanel/mixpanel-swift
+2e3bc9a53bbfc4174282776ec2dc8e4f9c27ba65	not-for-merge	'refs/pull/509/head' of https://github.com/mixpanel/mixpanel-swift
+b490e1b4f47bb910769b591ce2f1565b9f1f25da	not-for-merge	'refs/pull/511/head' of https://github.com/mixpanel/mixpanel-swift
+cb6c5d648e42987e1285897a3f856ff7e24270a9	not-for-merge	'refs/pull/513/head' of https://github.com/mixpanel/mixpanel-swift
+9245359568f45c37252524b3c8a33169c2a5421c	not-for-merge	'refs/pull/517/head' of https://github.com/mixpanel/mixpanel-swift
+9611a33e4a7e432808bfea099c46ef76b24c6e04	not-for-merge	'refs/pull/518/head' of https://github.com/mixpanel/mixpanel-swift
+8ee1e19eaecbae2f127ebc70f5dbf45a56a50e45	not-for-merge	'refs/pull/519/head' of https://github.com/mixpanel/mixpanel-swift
+4daa51524e9c93edddceaddb112eca234c8840cc	not-for-merge	'refs/pull/521/head' of https://github.com/mixpanel/mixpanel-swift
+c664a93c0401dc264aa9c1e1ccccba15a93efc16	not-for-merge	'refs/pull/523/head' of https://github.com/mixpanel/mixpanel-swift
+644650e692cbc1364a6c224ff04dd0640a7f9604	not-for-merge	'refs/pull/525/head' of https://github.com/mixpanel/mixpanel-swift
+e3d17d30f403e24e9d12adeae13f62a093d79bf0	not-for-merge	'refs/pull/526/head' of https://github.com/mixpanel/mixpanel-swift
+809b34a6b68a6af1df91c696fdf2740b021c0a17	not-for-merge	'refs/pull/53/head' of https://github.com/mixpanel/mixpanel-swift
+373a9d3419223ea9da65429acfce5eecaf963be6	not-for-merge	'refs/pull/53/merge' of https://github.com/mixpanel/mixpanel-swift
+e4e2304df4ec2e4ab419b9995089fa16c6c78db1	not-for-merge	'refs/pull/530/head' of https://github.com/mixpanel/mixpanel-swift
+cbf2c7336ddba8d1ca38711f7e6e1d8a3ba905bc	not-for-merge	'refs/pull/533/head' of https://github.com/mixpanel/mixpanel-swift
+992916118005e070d00af965f35b37141a1fffa7	not-for-merge	'refs/pull/535/head' of https://github.com/mixpanel/mixpanel-swift
+e1f30b59bb3fd25c3c20ac37dd8cd9c45f5d1654	not-for-merge	'refs/pull/537/head' of https://github.com/mixpanel/mixpanel-swift
+1a14bd8ce89698309158157d8d6b7b646bd8a848	not-for-merge	'refs/pull/539/head' of https://github.com/mixpanel/mixpanel-swift
+4fe7326df6835d57c22289110b983ca070bb38d9	not-for-merge	'refs/pull/540/head' of https://github.com/mixpanel/mixpanel-swift
+19559221e1f0a9d0593bd4fb9d8b52ebe9e02adb	not-for-merge	'refs/pull/541/head' of https://github.com/mixpanel/mixpanel-swift
+29473edda505980d2ab147d2648660981885608a	not-for-merge	'refs/pull/542/head' of https://github.com/mixpanel/mixpanel-swift
+c9f4507aa8df360b77a4e68f6804b53ee1b74c13	not-for-merge	'refs/pull/543/head' of https://github.com/mixpanel/mixpanel-swift
+dd8a412d26144019b77bb4aa92725f450138268e	not-for-merge	'refs/pull/544/head' of https://github.com/mixpanel/mixpanel-swift
+d0e83f87fa4e651e618ffff69c99c0db37a53849	not-for-merge	'refs/pull/545/head' of https://github.com/mixpanel/mixpanel-swift
+13c7cc96a4e490e8dac378639815d8ca86e623ad	not-for-merge	'refs/pull/546/head' of https://github.com/mixpanel/mixpanel-swift
+71c4db0258c519894c13361116fca27aaea5df48	not-for-merge	'refs/pull/547/head' of https://github.com/mixpanel/mixpanel-swift
+aa7c38efe69c7f573fa2f953445d027a646fb388	not-for-merge	'refs/pull/549/head' of https://github.com/mixpanel/mixpanel-swift
+fa7be805b141dece90f7fe2c1e3f024984e47f1a	not-for-merge	'refs/pull/551/head' of https://github.com/mixpanel/mixpanel-swift
+1999bcc2691e2280a8cb683a6e38fd87e87a4c8f	not-for-merge	'refs/pull/552/head' of https://github.com/mixpanel/mixpanel-swift
+a2385838e2864fa94a7a109d7b8fa02c18008006	not-for-merge	'refs/pull/552/merge' of https://github.com/mixpanel/mixpanel-swift
+9fde5ad7701ed4b68e5e1a78fd221859f3d8c90e	not-for-merge	'refs/pull/553/head' of https://github.com/mixpanel/mixpanel-swift
+e34997e35283537c4bcd46d16bbda1beedae6348	not-for-merge	'refs/pull/554/head' of https://github.com/mixpanel/mixpanel-swift
+c7d0e0a785a580e5e67d8d5125cdb8024d90b3dd	not-for-merge	'refs/pull/557/head' of https://github.com/mixpanel/mixpanel-swift
+cafcbe469168f9f116b7395000a874e1dd8cf9a8	not-for-merge	'refs/pull/557/merge' of https://github.com/mixpanel/mixpanel-swift
+368c1bad554d2f2e96ba162bc3b818a87e900eab	not-for-merge	'refs/pull/559/head' of https://github.com/mixpanel/mixpanel-swift
+97bad72606260987345f6f8ea8cf88150bb03c19	not-for-merge	'refs/pull/56/head' of https://github.com/mixpanel/mixpanel-swift
+bde24d6c2c950a172837ce4d0e5bc81aca4073b3	not-for-merge	'refs/pull/560/head' of https://github.com/mixpanel/mixpanel-swift
+a86dacb8bb48891107fc8672129e6560f362daf1	not-for-merge	'refs/pull/561/head' of https://github.com/mixpanel/mixpanel-swift
+cc2688b953ea91cb37174fa161c859e00ce3151e	not-for-merge	'refs/pull/562/head' of https://github.com/mixpanel/mixpanel-swift
+d02177702e99e3443f4d470116e076df56821847	not-for-merge	'refs/pull/566/head' of https://github.com/mixpanel/mixpanel-swift
+b3dd6501853b150309ab16c5dd1a2faabb945ed4	not-for-merge	'refs/pull/567/head' of https://github.com/mixpanel/mixpanel-swift
+191dcacd86d0246bb2fcb9b1deef80788cc7f26b	not-for-merge	'refs/pull/568/head' of https://github.com/mixpanel/mixpanel-swift
+ae6253fa579998db9b577df9420a1d382c3f0838	not-for-merge	'refs/pull/573/head' of https://github.com/mixpanel/mixpanel-swift
+e733266686863a6e178c08f80ab91e552c41a787	not-for-merge	'refs/pull/575/head' of https://github.com/mixpanel/mixpanel-swift
+66ee84ba7fd7b51706029644f5304db07ae60d2d	not-for-merge	'refs/pull/576/head' of https://github.com/mixpanel/mixpanel-swift
+fffa4193da0598d256dd00d24acef85b64254850	not-for-merge	'refs/pull/577/head' of https://github.com/mixpanel/mixpanel-swift
+3b333518ce9680f33569fc2f1033bf74779f064d	not-for-merge	'refs/pull/579/head' of https://github.com/mixpanel/mixpanel-swift
+09eb8234bb4334b947485832d1b5eb1f56f51fee	not-for-merge	'refs/pull/58/head' of https://github.com/mixpanel/mixpanel-swift
+efd4e63e516aeeb6c81d3a4f436719ae317933f4	not-for-merge	'refs/pull/581/head' of https://github.com/mixpanel/mixpanel-swift
+991a43a0b5657b9be7f63e3c999cdab5288971c4	not-for-merge	'refs/pull/583/head' of https://github.com/mixpanel/mixpanel-swift
+3822117e51853488869aa423c82e092a9865f338	not-for-merge	'refs/pull/586/head' of https://github.com/mixpanel/mixpanel-swift
+7ea2dd830f00826cfb5e6077b6045d1171bf8e52	not-for-merge	'refs/pull/587/head' of https://github.com/mixpanel/mixpanel-swift
+ea8ecb392b892797bbef546eaa8786d6c2fe7d1e	not-for-merge	'refs/pull/588/head' of https://github.com/mixpanel/mixpanel-swift
+80ea6196ade64b09f2f0289d841260b292a9ec54	not-for-merge	'refs/pull/589/head' of https://github.com/mixpanel/mixpanel-swift
+684ec6d641de5ddcad1b26d48e72fc1f71d2a9fb	not-for-merge	'refs/pull/59/head' of https://github.com/mixpanel/mixpanel-swift
+c319a6550818dfdbab3357c8dc46f4327b1cd153	not-for-merge	'refs/pull/592/head' of https://github.com/mixpanel/mixpanel-swift
+7f4da9e23548994e2a05e3231a5bb978bd4dab83	not-for-merge	'refs/pull/593/head' of https://github.com/mixpanel/mixpanel-swift
+442606e7b0b1e07f94ab0a68fdb661f53e794db5	not-for-merge	'refs/pull/596/head' of https://github.com/mixpanel/mixpanel-swift
+11ccf0a083c7b806025bb1ecb40486fd8a037e8e	not-for-merge	'refs/pull/598/head' of https://github.com/mixpanel/mixpanel-swift
+f5beadf6aeca1f3a5f036b572d3bfd2665127a26	not-for-merge	'refs/pull/6/head' of https://github.com/mixpanel/mixpanel-swift
+98ca3be84c016c6afd96cab408d99464f74b5070	not-for-merge	'refs/pull/600/head' of https://github.com/mixpanel/mixpanel-swift
+64d18d6f1673c9653285b6f35a4e9b537a133309	not-for-merge	'refs/pull/602/head' of https://github.com/mixpanel/mixpanel-swift
+91460f263f9d44a4deb5361a722488a9012cf5f8	not-for-merge	'refs/pull/603/head' of https://github.com/mixpanel/mixpanel-swift
+e7fdddcbce6db61c64d37360439616e5a2923eed	not-for-merge	'refs/pull/604/head' of https://github.com/mixpanel/mixpanel-swift
+d172aec0f11bfd5da06efe67393c3fb2a023d2f4	not-for-merge	'refs/pull/604/merge' of https://github.com/mixpanel/mixpanel-swift
+46af545e1b73fa6abd4159777407e65a30d2906a	not-for-merge	'refs/pull/608/head' of https://github.com/mixpanel/mixpanel-swift
+b06b0a8477c6dbd0f01be91dd6af3a4344dc9a30	not-for-merge	'refs/pull/609/head' of https://github.com/mixpanel/mixpanel-swift
+e070c83b0f5d1afd15ac6f25a6aa7b57909db289	not-for-merge	'refs/pull/611/head' of https://github.com/mixpanel/mixpanel-swift
+6b6302cd27e32dcdcb461524e2baa43703acc578	not-for-merge	'refs/pull/616/head' of https://github.com/mixpanel/mixpanel-swift
+b0fbb6fd1055122dd6c816c4ce6be5f86b5a9a44	not-for-merge	'refs/pull/617/head' of https://github.com/mixpanel/mixpanel-swift
+a90172fcd17f58068dc56b6035362bc5970740df	not-for-merge	'refs/pull/618/head' of https://github.com/mixpanel/mixpanel-swift
+925e18919f145e088b35af550dd51be1aed327e7	not-for-merge	'refs/pull/62/head' of https://github.com/mixpanel/mixpanel-swift
+ec16672d914416841ff804adbdd2a2f9eb43042c	not-for-merge	'refs/pull/623/head' of https://github.com/mixpanel/mixpanel-swift
+618d2456ebbc7057b61ba5c24ad9315c32106a6f	not-for-merge	'refs/pull/624/head' of https://github.com/mixpanel/mixpanel-swift
+b953aa70781fd3dfb200991c40b2bfbfd1074cc4	not-for-merge	'refs/pull/625/head' of https://github.com/mixpanel/mixpanel-swift
+78c8e2377c679a683dd0ab155e169e6c4e00e4ae	not-for-merge	'refs/pull/625/merge' of https://github.com/mixpanel/mixpanel-swift
+98151c83dfb34f269b33fe3abe4c2e5d1790d185	not-for-merge	'refs/pull/626/head' of https://github.com/mixpanel/mixpanel-swift
+d8b6fb1f65d346b52c4c407a2cc5887e6d1bf566	not-for-merge	'refs/pull/626/merge' of https://github.com/mixpanel/mixpanel-swift
+3750264de0e8c30b36aa02d02b09d63dbd470865	not-for-merge	'refs/pull/627/head' of https://github.com/mixpanel/mixpanel-swift
+68ea193376c9dd19cef68f2da1b56494d12fe767	not-for-merge	'refs/pull/628/head' of https://github.com/mixpanel/mixpanel-swift
+324d59ff7fd28270b6581084b6f67cd663424a99	not-for-merge	'refs/pull/633/head' of https://github.com/mixpanel/mixpanel-swift
+8c9b38ac3fd5a66dc190a3c07dd9d23b06eefab4	not-for-merge	'refs/pull/634/head' of https://github.com/mixpanel/mixpanel-swift
+0f021d935f789183cc354a4f56e82f09c2e7d160	not-for-merge	'refs/pull/636/head' of https://github.com/mixpanel/mixpanel-swift
+aeb303f3f233d89fa6d68feec750f2657d3bfe78	not-for-merge	'refs/pull/638/head' of https://github.com/mixpanel/mixpanel-swift
+48a12e70391b25ddfca3f8977ec087e162c8e3c4	not-for-merge	'refs/pull/64/head' of https://github.com/mixpanel/mixpanel-swift
+e96e4d85fed36181acbad0d4706ce88c4a09c532	not-for-merge	'refs/pull/64/merge' of https://github.com/mixpanel/mixpanel-swift
+b58d4f672ab39f195d627b0b5e330ea5fd422f5c	not-for-merge	'refs/pull/65/head' of https://github.com/mixpanel/mixpanel-swift
+512da4f4054a0e1b9e9221403e1bc8de00cb3243	not-for-merge	'refs/pull/66/head' of https://github.com/mixpanel/mixpanel-swift
+d34ca1f25256a06460b0de2cf8287622671c77bc	not-for-merge	'refs/pull/77/head' of https://github.com/mixpanel/mixpanel-swift
+49bd237c92862de1daa39a9409d3c5b279df2fb3	not-for-merge	'refs/pull/79/head' of https://github.com/mixpanel/mixpanel-swift
+f1cb6b6ab9538813f3ff5a450e9af0ad6b1cdf32	not-for-merge	'refs/pull/8/head' of https://github.com/mixpanel/mixpanel-swift
+1654bcd46214d53a96de6c859b7f9649099b5997	not-for-merge	'refs/pull/83/head' of https://github.com/mixpanel/mixpanel-swift
+a3baeab9a4c87b61a87ce31519032d8ba3ea9e4c	not-for-merge	'refs/pull/84/head' of https://github.com/mixpanel/mixpanel-swift
+3b4f10056c283af6d226df77599a18f89a944f16	not-for-merge	'refs/pull/85/head' of https://github.com/mixpanel/mixpanel-swift
+e5d0e7558250d6eb443e1a6fd715b000df550b73	not-for-merge	'refs/pull/86/head' of https://github.com/mixpanel/mixpanel-swift
+5566ddd643fc9070b9b2e347ac02276e3b8eb6c6	not-for-merge	'refs/pull/88/head' of https://github.com/mixpanel/mixpanel-swift
+5f2757f902f1275d65c65cad19c3efa2273923a2	not-for-merge	'refs/pull/9/head' of https://github.com/mixpanel/mixpanel-swift
+f9a4c76f82892eb5100edfd7826af76b92a622ed	not-for-merge	'refs/pull/90/head' of https://github.com/mixpanel/mixpanel-swift
+c984701b768be7a3d5390d5e3b3ada4300c3962c	not-for-merge	'refs/pull/91/head' of https://github.com/mixpanel/mixpanel-swift
+004cf1febceda4ebd88b90f380d0a7b883dd5ccc	not-for-merge	'refs/pull/92/head' of https://github.com/mixpanel/mixpanel-swift
+c279727682d3fab9a5c255456cfa0ab840f1a565	not-for-merge	'refs/pull/96/head' of https://github.com/mixpanel/mixpanel-swift
+fd32e92e050d774668e4848c78d2b3646baeaa6a	not-for-merge	'refs/pull/96/merge' of https://github.com/mixpanel/mixpanel-swift
+c279727682d3fab9a5c255456cfa0ab840f1a565	not-for-merge	'refs/pull/98/head' of https://github.com/mixpanel/mixpanel-swift
+dd3cfafd2d7d0389d77b4f4ea7ba8650334362b8	not-for-merge	'refs/pull/99/head' of https://github.com/mixpanel/mixpanel-swift
+d021d79319770f8cd470162ea5d433060d7dbb5e	not-for-merge	tag '3.0.0.rc.1' of https://github.com/mixpanel/mixpanel-swift
+0fce2197d30cec518583ea3944ff90571df842e7	not-for-merge	tag 'v1.0.0' of https://github.com/mixpanel/mixpanel-swift
+bf338960ae21b4eb390f428792cf885c14bc2855	not-for-merge	tag 'v1.0.1' of https://github.com/mixpanel/mixpanel-swift
+39c8de1ce53d15a85460d4d978f01aa500e20281	not-for-merge	tag 'v2.0.0' of https://github.com/mixpanel/mixpanel-swift
+4d10e593a20b5c29a3a1b476d24af5f257d46739	not-for-merge	tag 'v2.0.1' of https://github.com/mixpanel/mixpanel-swift
+599390d2e8ae6790478c4e16afab2c15ae9172d2	not-for-merge	tag 'v2.1.0' of https://github.com/mixpanel/mixpanel-swift
+5026de2d53d9f068ee170eb6910d3a61e3e83fb0	not-for-merge	tag 'v2.1.1' of https://github.com/mixpanel/mixpanel-swift
+55a54ecdabf31611d21ccab750e6ca22f1dbe54b	not-for-merge	tag 'v2.1.2' of https://github.com/mixpanel/mixpanel-swift
+6c80b387eea80c1b10b0e584ee257e48b8da48e3	not-for-merge	tag 'v2.1.3' of https://github.com/mixpanel/mixpanel-swift
+f9ff6f886d43703ac6f42a51cde4ff32532b32ce	not-for-merge	tag 'v2.1.4' of https://github.com/mixpanel/mixpanel-swift
+6761ec379e8aa6f1cf5c6a9b2d2de0d170a1114f	not-for-merge	tag 'v2.1.5' of https://github.com/mixpanel/mixpanel-swift
+b5f242788d3c3fdffe22ae613d171121d71740a3	not-for-merge	tag 'v2.1.6' of https://github.com/mixpanel/mixpanel-swift
+925d79637b7ff4076bb95c277e39d5707dca6f47	not-for-merge	tag 'v2.1.7' of https://github.com/mixpanel/mixpanel-swift
+e72a27f4d58e91a4bf4e093384e885976b057440	not-for-merge	tag 'v2.1.8' of https://github.com/mixpanel/mixpanel-swift
+ef48a482775e01550e565abb1c90ad31b7644d5a	not-for-merge	tag 'v2.1.9' of https://github.com/mixpanel/mixpanel-swift
+b607151987ce3eae9c213894ab8eb9e9d7b2a0c4	not-for-merge	tag 'v2.10.0' of https://github.com/mixpanel/mixpanel-swift
+1dc351bb9fd42542e0fa00d35fc3029028a6a480	not-for-merge	tag 'v2.10.1' of https://github.com/mixpanel/mixpanel-swift
+a9b22c1f1200614f8deaa21968a0b8e663b97257	not-for-merge	tag 'v2.10.2' of https://github.com/mixpanel/mixpanel-swift
+8e222e9d2ed2d82e1dcc3dfa50b617176715aa9d	not-for-merge	tag 'v2.10.3' of https://github.com/mixpanel/mixpanel-swift
+560a88c294df92435fab7dd849107eaeb370911e	not-for-merge	tag 'v2.10.4' of https://github.com/mixpanel/mixpanel-swift
+2fece89fe81689a1489db82830846357fd83fb5a	not-for-merge	tag 'v2.2.0' of https://github.com/mixpanel/mixpanel-swift
+3eda91c7ff511fd91354a6bf6932b2d134091631	not-for-merge	tag 'v2.2.1' of https://github.com/mixpanel/mixpanel-swift
+46456f5a8c4cd33d435f8cc17b8fc09e284e89d2	not-for-merge	tag 'v2.2.2' of https://github.com/mixpanel/mixpanel-swift
+232dafcfa409a3ac7af6774e9901a46933ed2094	not-for-merge	tag 'v2.2.3' of https://github.com/mixpanel/mixpanel-swift
+e1c276d1f3393f814d0c5320d8bb703c86e56d68	not-for-merge	tag 'v2.3.0' of https://github.com/mixpanel/mixpanel-swift
+5f8b1370e96362bb1b23d7ea650b8ec37ed28a93	not-for-merge	tag 'v2.3.1' of https://github.com/mixpanel/mixpanel-swift
+c6fd632e4c8cb39442ae6bfbc6ba7302bd358391	not-for-merge	tag 'v2.3.2' of https://github.com/mixpanel/mixpanel-swift
+43b287cd9464eefdfef3601749ff48c248df86d5	not-for-merge	tag 'v2.3.3' of https://github.com/mixpanel/mixpanel-swift
+e5972db14ebdd5c8a09fb745b9e7d7b8d89eef78	not-for-merge	tag 'v2.4.0' of https://github.com/mixpanel/mixpanel-swift
+276968432cb1d94e4012edd8e2f0dc1ed6217edb	not-for-merge	tag 'v2.4.1' of https://github.com/mixpanel/mixpanel-swift
+e5271bc111597acabe1a54256264dd87b1bae8af	not-for-merge	tag 'v2.4.2' of https://github.com/mixpanel/mixpanel-swift
+2d676e8c0f46c7b0673db1148fd5eebdf4c5c604	not-for-merge	tag 'v2.4.3' of https://github.com/mixpanel/mixpanel-swift
+814e6cfdc589789106e8b61ab6055ffb752edd83	not-for-merge	tag 'v2.4.4' of https://github.com/mixpanel/mixpanel-swift
+8d65c721e2941ebb135a1fef7c9ee7534ed1d67a	not-for-merge	tag 'v2.4.5' of https://github.com/mixpanel/mixpanel-swift
+d92bd567eef4b259ce12495402475c2e06611d30	not-for-merge	tag 'v2.5.0' of https://github.com/mixpanel/mixpanel-swift
+9b639d72ae856d8a9a27144e8da6c13319819360	not-for-merge	tag 'v2.5.1' of https://github.com/mixpanel/mixpanel-swift
+d6895513a0de5c4073bf3cacc27011a2202aaf56	not-for-merge	tag 'v2.5.2' of https://github.com/mixpanel/mixpanel-swift
+17daa8044da9be82a713f2e7f7b6786f47b3cc7e	not-for-merge	tag 'v2.5.3' of https://github.com/mixpanel/mixpanel-swift
+d1ffbb0c80d4d6d026ba1bf7ef72559a74f8f6fd	not-for-merge	tag 'v2.5.4' of https://github.com/mixpanel/mixpanel-swift
+cd2c856312b6a1931cf167f504e2dca1f2504e43	not-for-merge	tag 'v2.5.5' of https://github.com/mixpanel/mixpanel-swift
+3cf2ee60653ec9227bba4888fea553ac865610fe	not-for-merge	tag 'v2.5.6' of https://github.com/mixpanel/mixpanel-swift
+f733c11cc4da0c4c71c6f142e3ec682124b07f93	not-for-merge	tag 'v2.5.7' of https://github.com/mixpanel/mixpanel-swift
+e62521f0a0a40c02f10028c1b06a01a00e726624	not-for-merge	tag 'v2.5.8' of https://github.com/mixpanel/mixpanel-swift
+1da8a3dd108d1bbeaa08f65ab6a668401edd5ba3	not-for-merge	tag 'v2.5.9' of https://github.com/mixpanel/mixpanel-swift
+9014dea08e036e43e3719bc293c3cded548413a1	not-for-merge	tag 'v2.6.0' of https://github.com/mixpanel/mixpanel-swift
+2124dba2020f52929e8c839c6863f0deae90769c	not-for-merge	tag 'v2.6.1' of https://github.com/mixpanel/mixpanel-swift
+a1a86acaae63e5f61540924af87eb6153b40b306	not-for-merge	tag 'v2.6.10' of https://github.com/mixpanel/mixpanel-swift
+3cefc79acdb6770a1e7be2671184d4a8016e09aa	not-for-merge	tag 'v2.6.11' of https://github.com/mixpanel/mixpanel-swift
+8dc09b5e0bf9d3200a7d7370b51653247bd49d6f	not-for-merge	tag 'v2.6.2' of https://github.com/mixpanel/mixpanel-swift
+5442a9630cf98b1216110f8e82861592e2779818	not-for-merge	tag 'v2.6.3' of https://github.com/mixpanel/mixpanel-swift
+e00d342a1183f57ce3ecd2db12981bdf5b6fa1ab	not-for-merge	tag 'v2.6.4' of https://github.com/mixpanel/mixpanel-swift
+37e3d54991d491f8ff64469f2ae09569d2fa8f8e	not-for-merge	tag 'v2.6.5' of https://github.com/mixpanel/mixpanel-swift
+80839e197519f34987d31cc0248bc7bfce2bfab9	not-for-merge	tag 'v2.6.6' of https://github.com/mixpanel/mixpanel-swift
+3f2428b0887b5758f24145843c904992216c76c8	not-for-merge	tag 'v2.6.7' of https://github.com/mixpanel/mixpanel-swift
+1552412756e26f5dba0d1f110575eabc4e0fae40	not-for-merge	tag 'v2.6.8' of https://github.com/mixpanel/mixpanel-swift
+dbb8c426378c461b0f2c6585de38c20e01af7612	not-for-merge	tag 'v2.6.9' of https://github.com/mixpanel/mixpanel-swift
+2805a7dace2fcc0c0a96a142101a532cdeacadb5	not-for-merge	tag 'v2.7.0' of https://github.com/mixpanel/mixpanel-swift
+0e08549e737a192ce7dc176c9e8f4c2e18df9c14	not-for-merge	tag 'v2.7.1' of https://github.com/mixpanel/mixpanel-swift
+15d323828a23d0ed6ac640996dfea87cbe6784e0	not-for-merge	tag 'v2.7.2' of https://github.com/mixpanel/mixpanel-swift
+f4235c1a3b0f46a4a27f0f7aa2f5e1952b98e0fb	not-for-merge	tag 'v2.7.3' of https://github.com/mixpanel/mixpanel-swift
+0b1ed0a6abf180edd807e14116efef87ab8ead9a	not-for-merge	tag 'v2.7.4' of https://github.com/mixpanel/mixpanel-swift
+47cca06002ab7e78ed1bc5abf7bce223b83391d5	not-for-merge	tag 'v2.7.5' of https://github.com/mixpanel/mixpanel-swift
+1cfc8d24a92904002f27a8d080f695d60fe70e54	not-for-merge	tag 'v2.7.6' of https://github.com/mixpanel/mixpanel-swift
+4148dee1a2031a28c5217be2f4f3b92193c3fb05	not-for-merge	tag 'v2.7.7' of https://github.com/mixpanel/mixpanel-swift
+8923328c5e246c1b2adcac5e48fc1965f570abe1	not-for-merge	tag 'v2.8.0' of https://github.com/mixpanel/mixpanel-swift
+1b6b9b96d71a73abab5daf1666ebc5a4e144ac1b	not-for-merge	tag 'v2.8.1' of https://github.com/mixpanel/mixpanel-swift
+6694f63a225b032a6610b83d4f0cb22ed4d907a2	not-for-merge	tag 'v2.8.2' of https://github.com/mixpanel/mixpanel-swift
+f3a8556e7120220bb353e748ba800d75d28c3d81	not-for-merge	tag 'v2.8.3' of https://github.com/mixpanel/mixpanel-swift
+4065d1e5975cc0385b0f2346433ca9208942d2f4	not-for-merge	tag 'v2.8.4' of https://github.com/mixpanel/mixpanel-swift
+aa3413356671f56d85c2d12e52f50a136e1f2f10	not-for-merge	tag 'v2.9.0' of https://github.com/mixpanel/mixpanel-swift
+eb9a4f03a382e19e46026a0aabacbccc552471be	not-for-merge	tag 'v2.9.1' of https://github.com/mixpanel/mixpanel-swift
+354f5d4250cdda011367dac5810829ad0e9ad6da	not-for-merge	tag 'v2.9.2' of https://github.com/mixpanel/mixpanel-swift
+469dcc3acbd70f8855da6491d171235fdb85eba9	not-for-merge	tag 'v2.9.3' of https://github.com/mixpanel/mixpanel-swift
+b0a4316ed16c112a62e835512fcb3800402b5280	not-for-merge	tag 'v3.0.0' of https://github.com/mixpanel/mixpanel-swift
+d8ba24a94ced4b94ae2a2cad6d1c0f40e9f4a5ff	not-for-merge	tag 'v3.0.0.beta.1' of https://github.com/mixpanel/mixpanel-swift
+22c963f16fe62955a457fe43dd09a927653f3e4c	not-for-merge	tag 'v3.0.0.beta.2' of https://github.com/mixpanel/mixpanel-swift
+0ff355045356322d874e8691b316e7f227ce67f9	not-for-merge	tag 'v3.0.0.beta.3' of https://github.com/mixpanel/mixpanel-swift
+9ebfd190631d9a6b38c9d324ecb537c21262f05a	not-for-merge	tag 'v3.0.0.beta.4' of https://github.com/mixpanel/mixpanel-swift
+b671867632405f43786a63d4fa328a1b6a025fef	not-for-merge	tag 'v3.0.0.beta.5' of https://github.com/mixpanel/mixpanel-swift
+03f9153a8f10ab1fb97e79b85b1013f21f926073	not-for-merge	tag 'v3.0.0.beta.6' of https://github.com/mixpanel/mixpanel-swift
+56fe5fc53ae4f5e4a674109fa7ac23705b3ac691	not-for-merge	tag 'v3.1.0' of https://github.com/mixpanel/mixpanel-swift
+677bdc88f4b97efec50589766bdacd6937656223	not-for-merge	tag 'v3.1.1' of https://github.com/mixpanel/mixpanel-swift
+9f43452627e1a9e53d5e96c6afcf60570399db38	not-for-merge	tag 'v3.1.2' of https://github.com/mixpanel/mixpanel-swift
+faad3ba2a9b1130616b4354f276ab4e7d7d41f56	not-for-merge	tag 'v3.1.3' of https://github.com/mixpanel/mixpanel-swift
+e971bedbeba01d7df554e131f957c0f0cb1f1db9	not-for-merge	tag 'v3.1.4' of https://github.com/mixpanel/mixpanel-swift
+d71ba0f22bf1546d33aa341c6aeadd04e52bd9b0	not-for-merge	tag 'v3.1.5' of https://github.com/mixpanel/mixpanel-swift
+a2ba4d9036d3b2da3867f860d51663ce2218b138	not-for-merge	tag 'v3.1.6' of https://github.com/mixpanel/mixpanel-swift
+fa0bf5fe31fb7ca6af397dd9f6d4cfa6281470f6	not-for-merge	tag 'v3.1.7' of https://github.com/mixpanel/mixpanel-swift
+8f3c7bd63931f44aee966cc195245a6f60180030	not-for-merge	tag 'v3.2.0' of https://github.com/mixpanel/mixpanel-swift
+9d9a9695994a2bb6b55a109dcc5c8abba4ac089d	not-for-merge	tag 'v3.2.1' of https://github.com/mixpanel/mixpanel-swift
+1e85e32c169ed2c4527cc27ef8807c4ec8a22c1a	not-for-merge	tag 'v3.2.2' of https://github.com/mixpanel/mixpanel-swift
+d26ec64bc9c5cbb1a25a5476338ece5741607195	not-for-merge	tag 'v3.2.3' of https://github.com/mixpanel/mixpanel-swift
+9f522253a4a1f0886e17ec525d7396a1beb09fb3	not-for-merge	tag 'v3.2.4' of https://github.com/mixpanel/mixpanel-swift
+7f0077fd9e0f54738b5e731d297aa4c35b0e660b	not-for-merge	tag 'v3.2.5' of https://github.com/mixpanel/mixpanel-swift
+32d8b0c7f75d056ed2aa231c90ccab5ca0618bcc	not-for-merge	tag 'v3.2.6' of https://github.com/mixpanel/mixpanel-swift
+d9be0eaebde3b2872f4cdf2401162236d5e89529	not-for-merge	tag 'v3.3.0' of https://github.com/mixpanel/mixpanel-swift
+89da375347a0b77e2dd5d5533271e81c2b085442	not-for-merge	tag 'v3.4.0' of https://github.com/mixpanel/mixpanel-swift
+042c7aef316bc4ba3ebd2a8306cfdfbf8dad5bd7	not-for-merge	tag 'v3.5.0' of https://github.com/mixpanel/mixpanel-swift
+e4f9d0250564679e05b1987feb5b608629a9fe53	not-for-merge	tag 'v3.5.1' of https://github.com/mixpanel/mixpanel-swift
+ad669e64ab13369ed131cc98afa839d2053b36fe	not-for-merge	tag 'v4.0.0' of https://github.com/mixpanel/mixpanel-swift
+93e9bec25fc8e730b533647435ac1e2b14c02f27	not-for-merge	tag 'v4.0.1' of https://github.com/mixpanel/mixpanel-swift
+f88b5f6745bcc3ba1d1b63af3f64761181355dae	not-for-merge	tag 'v4.0.2' of https://github.com/mixpanel/mixpanel-swift
+f8247bcf95464577249427fec20ad17134975d09	not-for-merge	tag 'v4.0.3' of https://github.com/mixpanel/mixpanel-swift
+426a7ec554838f295bd1b6122db90b0b872a9220	not-for-merge	tag 'v4.0.4' of https://github.com/mixpanel/mixpanel-swift
+cd24b5b1a36240511e149f8601aedd2c02fa4391	not-for-merge	tag 'v4.0.5' of https://github.com/mixpanel/mixpanel-swift
+13f6255d1468e7ab9740b6c574435067690df4c2	not-for-merge	tag 'v4.0.6' of https://github.com/mixpanel/mixpanel-swift
+da634bb259d23294aa2164223242fd3953897ba0	not-for-merge	tag 'v4.1.0' of https://github.com/mixpanel/mixpanel-swift
+b9ea4cfddf338a9809bc5dedfcc8b9dbf318ce6b	not-for-merge	tag 'v4.1.1' of https://github.com/mixpanel/mixpanel-swift
+0dd5a5115cab9a73b8baeb2b1114d2d831bcb76c	not-for-merge	tag 'v4.1.2' of https://github.com/mixpanel/mixpanel-swift
+06c37f42935199990416d75c60526e9f9cf54071	not-for-merge	tag 'v4.1.3' of https://github.com/mixpanel/mixpanel-swift
+b043dba8aa11e83f73cbce5f3c0e1a305c36c330	not-for-merge	tag 'v4.1.4' of https://github.com/mixpanel/mixpanel-swift
+187ea53f3f8454fb18945c094544115446da532d	not-for-merge	tag 'v4.2.0' of https://github.com/mixpanel/mixpanel-swift
+fea90a0a2cd01e939794af56111dbd88793cc76f	not-for-merge	tag 'v4.2.1' of https://github.com/mixpanel/mixpanel-swift
+a9634c62167f6b82e5906abef7e14c3eac5e0ad9	not-for-merge	tag 'v4.2.2' of https://github.com/mixpanel/mixpanel-swift
+42a90ac54f8cf4853ff99fe346acd6175598ff03	not-for-merge	tag 'v4.2.3' of https://github.com/mixpanel/mixpanel-swift
+a509ea2000c53dad1ea78bb8b8a4745761a8f69e	not-for-merge	tag 'v4.2.4' of https://github.com/mixpanel/mixpanel-swift
+ad62f11e623fd032d4c10b09a465583920f33fbe	not-for-merge	tag 'v4.2.5' of https://github.com/mixpanel/mixpanel-swift

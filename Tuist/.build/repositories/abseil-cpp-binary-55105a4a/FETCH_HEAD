@@ -1,0 +1,23 @@
+748c7837511d0e6a507737353af268484e1745e2	not-for-merge	branch 'main' of https://github.com/google/abseil-cpp-binary
+39b05f343c80f3150bf7023f5db4a349ee833995	not-for-merge	branch 'nc/bump-stv' of https://github.com/google/abseil-cpp-binary
+62464ac8f103e5beca375f97f603f3cc3b5139ee	not-for-merge	branch 'nc/patch-macos' of https://github.com/google/abseil-cpp-binary
+f288e6e2bdc0d8f0259b112f19ed57a89c5839f2	not-for-merge	branch 'nc/pm-update' of https://github.com/google/abseil-cpp-binary
+76c0f478abc1220242bc5d47da8011d67567f2c5	not-for-merge	branch 'nc/release-1.2022062300.0' of https://github.com/google/abseil-cpp-binary
+f785a46ecc9b4e7fe27411e1fc7ca5a620323d3e	not-for-merge	branch 'nc/update-gitignore' of https://github.com/google/abseil-cpp-binary
+837e1c29e9abf1393a40f93ddef1ee319c2e63b0	not-for-merge	branch 'nc/version' of https://github.com/google/abseil-cpp-binary
+abdd60125651df361e27ed3404152cffeb8a9b21	not-for-merge	branch 'ncooke3-patch-1' of https://github.com/google/abseil-cpp-binary
+39b05f343c80f3150bf7023f5db4a349ee833995	not-for-merge	'refs/pull/1/head' of https://github.com/google/abseil-cpp-binary
+837e1c29e9abf1393a40f93ddef1ee319c2e63b0	not-for-merge	'refs/pull/2/head' of https://github.com/google/abseil-cpp-binary
+76c0f478abc1220242bc5d47da8011d67567f2c5	not-for-merge	'refs/pull/3/head' of https://github.com/google/abseil-cpp-binary
+f785a46ecc9b4e7fe27411e1fc7ca5a620323d3e	not-for-merge	'refs/pull/4/head' of https://github.com/google/abseil-cpp-binary
+8ba32695f5b10fb4e70bd378e014c68f4ccbf605	not-for-merge	'refs/pull/4/merge' of https://github.com/google/abseil-cpp-binary
+cc38ca33dab02b07e721831d8c71ec0be6622fb5	not-for-merge	'refs/pull/5/head' of https://github.com/google/abseil-cpp-binary
+f288e6e2bdc0d8f0259b112f19ed57a89c5839f2	not-for-merge	'refs/pull/6/head' of https://github.com/google/abseil-cpp-binary
+cedc9e865bee60abe911821ab85330ba30d9526a	not-for-merge	'refs/pull/7/head' of https://github.com/google/abseil-cpp-binary
+abdd60125651df361e27ed3404152cffeb8a9b21	not-for-merge	'refs/pull/8/head' of https://github.com/google/abseil-cpp-binary
+62464ac8f103e5beca375f97f603f3cc3b5139ee	not-for-merge	'refs/pull/9/head' of https://github.com/google/abseil-cpp-binary
+a5f16ba68913840ee5df91b8dc06f5cc063579de	not-for-merge	tag '1.2021110200.0' of https://github.com/google/abseil-cpp-binary
+bfc0b6f81adc06ce5121eb23f628473638d67c5c	not-for-merge	tag '1.2022062300.0' of https://github.com/google/abseil-cpp-binary
+df308b8b46607675f2b9ec8e569109008f9155ce	not-for-merge	tag '1.2022062300.1' of https://github.com/google/abseil-cpp-binary
+7ce7be095bc3ed3c98b009532fe2d7698c132614	not-for-merge	tag '1.2024011601.0' of https://github.com/google/abseil-cpp-binary
+748c7837511d0e6a507737353af268484e1745e2	not-for-merge	tag '1.2024011601.1' of https://github.com/google/abseil-cpp-binary

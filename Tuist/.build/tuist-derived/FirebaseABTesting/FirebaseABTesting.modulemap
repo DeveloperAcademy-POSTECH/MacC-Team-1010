@@ -1,0 +1,6 @@
+framework module FirebaseABTesting {
+  umbrella header "/Users/kimsunghun/Desktop/ungchun/아카데미/매크로/MACC/Tuist/.build/checkouts/firebase-ios-sdk/FirebaseABTesting/Sources/Public/FirebaseABTesting/FirebaseABTesting.h"
+
+  export *
+  module * { export * }
+}
