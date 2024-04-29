@@ -15,10 +15,11 @@ public struct InformationView: View {
 	@StateObject var viewModel: InformationViewModel
 	
 	public init(makHolyId: Int, mpParamters: MPInfoClosedEventParameters) {
-		self._viewModel = StateObject(wrappedValue: InformationViewModel(makHolyId: makHolyId, 
-																		 maHolyRepo: DefaultMakgeolliRepository(),
-																		 userRepo: DefaultUserRepository(),
-																		 mpParameters: mpParamters))
+		self._viewModel = StateObject(
+			wrappedValue: InformationViewModel(makHolyId: makHolyId,
+																				 maHolyRepo: DefaultMakgeolliRepository(),
+																				 userRepo: DefaultUserRepository(),
+																				 mpParameters: mpParamters))
 	}
 	
 	public var body: some View {
@@ -31,19 +32,18 @@ public struct InformationView: View {
 							InformationCardView(viewModel: viewModel)
 								.padding(.top, 28.5)
 							InformationDetailView(viewModel: viewModel)
-							
 						}
 						.alert(isPresented: $viewModel.showDeleteAlert) {
 							Alert(title: Text("코멘트 삭제"), message: Text("코멘트를 삭제하시겠어요?"),
-								  primaryButton: .cancel(
-									Text("취소"),
-									action: {}
-								  ), secondaryButton: .destructive(
-									Text("삭제하기"),
-									action: {
-										viewModel.deleteComment()
-									}
-								  ))
+										primaryButton: .cancel(
+											Text("취소"),
+											action: {}
+										), secondaryButton: .destructive(
+											Text("삭제하기"),
+											action: {
+												viewModel.deleteComment()
+											}
+										))
 						}
 						HStack {
 							InfoBookMarkButton(viewModel: viewModel)
@@ -52,7 +52,7 @@ public struct InformationView: View {
 						.padding(.horizontal, 16)
 						.alert(isPresented: $viewModel.errorState) {
 							Alert(title: Text("네트워크 에러"), message: Text("인터넷 연결상태를 확인해주세요."),
-								  dismissButton: .default(Text("확인")))
+										dismissButton: .default(Text("확인")))
 						}
 					}
 				}
@@ -70,6 +70,7 @@ public struct InformationView: View {
 			}
 			.padding(.horizontal, 16)
 		}
+		.dismissKeyboard(on: [.tap, .drag])
 		.statusBarHidden(true)
 		.onAppear(perform: {
 			viewModel.fetchDatas()
@@ -77,7 +78,8 @@ public struct InformationView: View {
 		})
 		//코멘트 상세 Modal 화면
 		.sheet(isPresented: $viewModel.showDetailCommentListSheet, content: {
-			InfoLikeCommentDetailView(isPresented: $viewModel.showDetailCommentListSheet, comments: viewModel.comments, makHolyName: viewModel.makHoly.name)
+			InfoLikeCommentDetailView(isPresented: $viewModel.showDetailCommentListSheet,
+																comments: viewModel.comments, makHolyName: viewModel.makHoly.name)
 		})
 		// 코멘트 수정 ActionSheet
 		.confirmationDialog("", isPresented: $viewModel.showActionSheet, titleVisibility: .hidden) {
@@ -114,9 +116,6 @@ public struct InformationView: View {
 						viewModel.insertComment(myComment: myComment)
 					})
 			}
-			
 		})
 	}
 }
-
-

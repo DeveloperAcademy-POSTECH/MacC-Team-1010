@@ -38,7 +38,7 @@ public extension Project {
 			bundleId: "\(organizationName).\(name)Tests",
 			deploymentTarget: deploymentTarget,
 			infoPlist: .default,
-			//			sources: ["Tests/**"],
+			sources: ["Tests/**"],
 			dependencies: [.target(name: name)]
 		)
 		
