@@ -9,8 +9,7 @@ let project = Project.makeModule(
 		.Project.FeatureSearch,
 		.Project.FeatureEncyclopedia,
 		.Project.FeatureProfile,
-		.Project.FeatureOnboarding,
-		.Project.FeatureCamera
+		.Project.FeatureOnboarding
 	],
 	sources: ["Scene/**"]
 )
