@@ -78,7 +78,8 @@ public struct InformationView: View {
 		})
 		//코멘트 상세 Modal 화면
 		.sheet(isPresented: $viewModel.showDetailCommentListSheet, content: {
-			InfoLikeCommentDetailView(isPresented: $viewModel.showDetailCommentListSheet, comments: viewModel.comments, makHolyName: viewModel.makHoly.name)
+			InfoLikeCommentDetailView(isPresented: $viewModel.showDetailCommentListSheet,
+																comments: viewModel.comments, makHolyName: viewModel.makHoly.name)
 		})
 		// 코멘트 수정 ActionSheet
 		.confirmationDialog("", isPresented: $viewModel.showActionSheet, titleVisibility: .hidden) {
@@ -118,5 +119,3 @@ public struct InformationView: View {
 		})
 	}
 }
-
-
