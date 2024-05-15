@@ -42,6 +42,15 @@ extension HomeAPI: TargetType {
 	public var headers: [String : String]? {
 		return ["Content-Type": "application/json"]
 	}
+	
+	public var sampleData: Data {
+		switch self {
+		case .fetchRecentComments:
+			return FetchRecentCommentsMockData
+		case .fetchNewMakList:
+			return FetchNewMakListMockData
+		}
+	}
 }
 
 extension HomeAPI {
