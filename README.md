@@ -9,6 +9,11 @@
 
 ![미리보기](https://github.com/DeveloperAcademy-POSTECH/MacC-Team-1010/assets/50910456/5f11b4a5-be60-4e7c-bd84-68d47517e5d4)
 
+<br/>
+
+## ⚙️ 앱 개발 환경
+- 최소 버전: iOS 16.0
+- iPhone SE ~ iPhone 15 Pro Max 기기 대응
 
 <br>
 
